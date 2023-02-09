@@ -10,5 +10,6 @@ package modelo;
  */
 public abstract class Ficha {
     protected String nombreFicha;
-    protected int movimientX;
+    protected int movimientoX;
+    protected int movimientoY;
 }
