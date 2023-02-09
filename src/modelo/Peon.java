@@ -8,6 +8,18 @@ package modelo;
  *
  * @author pc
  */
-public class Peon {
+public class Peon extends Ficha{
     
+    public Peon(int movimientoX, int movimientoY) {
+        super(movimientoX, movimientoY);
+        this.movimientoX = 0;
+        this.movimientoY = 1;
+    }
+/*
+    @Override
+    public void moverFicha() {
+        
+        
+    }
+    */
 }

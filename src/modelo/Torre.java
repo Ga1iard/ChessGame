@@ -8,6 +8,10 @@ package modelo;
  *
  * @author pc
  */
-public class Torre {
+public class Torre extends Ficha {
+    
+    public Torre(int movimientoX, int movimientoY) {
+        super(movimientoX, movimientoY);
+    }
     
 }

@@ -8,10 +8,6 @@ package modelo;
  *
  * @author pc
  */
-public class Rey extends Ficha{
-    
-    public Rey(int movimientoX, int movimientoY) {
-        super(movimientoX, movimientoY);
-    }
+public class Tablero {
     
 }

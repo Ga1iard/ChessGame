@@ -18,7 +18,7 @@ public abstract class Ficha {
         this.movimientoY = movimientoY;
     }
     
-    
+   // public abstract void moverFicha();
     
     
 }
