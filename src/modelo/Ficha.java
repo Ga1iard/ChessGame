@@ -9,5 +9,5 @@ package modelo;
  * @author Bidob
  */
 public abstract class Ficha {
-    
+    protected String nombreFicha;
 }
