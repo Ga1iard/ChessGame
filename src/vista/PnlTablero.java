@@ -28,70 +28,70 @@ public class PnlTablero extends javax.swing.JPanel {
 
         pnlFondoTablero = new javax.swing.JPanel();
         pnlA8 = new javax.swing.JPanel();
-        jPanel2 = new javax.swing.JPanel();
-        pnlA9 = new javax.swing.JPanel();
-        jPanel3 = new javax.swing.JPanel();
-        jPanel4 = new javax.swing.JPanel();
-        jPanel5 = new javax.swing.JPanel();
-        pnlA10 = new javax.swing.JPanel();
-        pnlA11 = new javax.swing.JPanel();
-        pnlA12 = new javax.swing.JPanel();
-        pnlA13 = new javax.swing.JPanel();
-        pnlA14 = new javax.swing.JPanel();
-        jPanel6 = new javax.swing.JPanel();
-        jPanel7 = new javax.swing.JPanel();
-        jPanel8 = new javax.swing.JPanel();
-        jPanel9 = new javax.swing.JPanel();
-        jPanel10 = new javax.swing.JPanel();
-        jPanel11 = new javax.swing.JPanel();
-        pnlA15 = new javax.swing.JPanel();
-        pnlA16 = new javax.swing.JPanel();
-        pnlA17 = new javax.swing.JPanel();
-        pnlA18 = new javax.swing.JPanel();
-        pnlA19 = new javax.swing.JPanel();
-        pnlA20 = new javax.swing.JPanel();
-        pnlA21 = new javax.swing.JPanel();
-        jPanel12 = new javax.swing.JPanel();
-        jPanel13 = new javax.swing.JPanel();
-        jPanel14 = new javax.swing.JPanel();
-        jPanel15 = new javax.swing.JPanel();
-        jPanel16 = new javax.swing.JPanel();
-        jPanel17 = new javax.swing.JPanel();
-        jPanel18 = new javax.swing.JPanel();
-        jPanel19 = new javax.swing.JPanel();
-        pnlA22 = new javax.swing.JPanel();
-        pnlA23 = new javax.swing.JPanel();
-        pnlA24 = new javax.swing.JPanel();
-        pnlA25 = new javax.swing.JPanel();
-        pnlA26 = new javax.swing.JPanel();
-        pnlA27 = new javax.swing.JPanel();
-        pnlA28 = new javax.swing.JPanel();
-        pnlA29 = new javax.swing.JPanel();
-        pnlA30 = new javax.swing.JPanel();
-        jPanel20 = new javax.swing.JPanel();
-        jPanel21 = new javax.swing.JPanel();
-        jPanel22 = new javax.swing.JPanel();
-        jPanel23 = new javax.swing.JPanel();
-        jPanel24 = new javax.swing.JPanel();
-        jPanel25 = new javax.swing.JPanel();
-        jPanel26 = new javax.swing.JPanel();
-        jPanel27 = new javax.swing.JPanel();
-        pnlA31 = new javax.swing.JPanel();
-        pnlA32 = new javax.swing.JPanel();
-        pnlA33 = new javax.swing.JPanel();
-        pnlA34 = new javax.swing.JPanel();
-        pnlA35 = new javax.swing.JPanel();
+        pnlA7 = new javax.swing.JPanel();
+        pnlB7 = new javax.swing.JPanel();
+        pnlB8 = new javax.swing.JPanel();
+        pnlC7 = new javax.swing.JPanel();
+        pnlB6 = new javax.swing.JPanel();
+        pnlC8 = new javax.swing.JPanel();
+        pnlA6 = new javax.swing.JPanel();
+        pnlB5 = new javax.swing.JPanel();
+        pnlD7 = new javax.swing.JPanel();
+        pnlC6 = new javax.swing.JPanel();
+        pnlD8 = new javax.swing.JPanel();
+        pnlD6 = new javax.swing.JPanel();
+        pnlC5 = new javax.swing.JPanel();
+        pnlA5 = new javax.swing.JPanel();
+        pnlB4 = new javax.swing.JPanel();
+        pnlE7 = new javax.swing.JPanel();
+        pnlE8 = new javax.swing.JPanel();
+        pnlE6 = new javax.swing.JPanel();
+        pnlF7 = new javax.swing.JPanel();
+        pnlD5 = new javax.swing.JPanel();
+        pnlC4 = new javax.swing.JPanel();
+        pnlA4 = new javax.swing.JPanel();
+        pnlB3 = new javax.swing.JPanel();
+        pnlA3 = new javax.swing.JPanel();
+        pnlB2 = new javax.swing.JPanel();
+        pnlC3 = new javax.swing.JPanel();
+        pnlD4 = new javax.swing.JPanel();
+        pnlE5 = new javax.swing.JPanel();
+        pnlF6 = new javax.swing.JPanel();
+        pnlF8 = new javax.swing.JPanel();
+        pnlG7 = new javax.swing.JPanel();
+        pnlG8 = new javax.swing.JPanel();
+        pnlH7 = new javax.swing.JPanel();
+        pnlG6 = new javax.swing.JPanel();
+        pnlF5 = new javax.swing.JPanel();
+        pnlE4 = new javax.swing.JPanel();
+        pnlD3 = new javax.swing.JPanel();
+        pnlC2 = new javax.swing.JPanel();
+        pnlB1 = new javax.swing.JPanel();
+        pnlA2 = new javax.swing.JPanel();
+        pnlH8 = new javax.swing.JPanel();
+        pnlH6 = new javax.swing.JPanel();
+        pnlG5 = new javax.swing.JPanel();
+        pnlF4 = new javax.swing.JPanel();
+        pnlE3 = new javax.swing.JPanel();
+        pnlD2 = new javax.swing.JPanel();
+        pnlC1 = new javax.swing.JPanel();
+        pnlA1 = new javax.swing.JPanel();
+        pnlD1 = new javax.swing.JPanel();
+        pnlE2 = new javax.swing.JPanel();
+        pnlF3 = new javax.swing.JPanel();
+        pnlG4 = new javax.swing.JPanel();
+        pnlH5 = new javax.swing.JPanel();
         pnlA36 = new javax.swing.JPanel();
-        pnlA37 = new javax.swing.JPanel();
-        jPanel28 = new javax.swing.JPanel();
-        jPanel29 = new javax.swing.JPanel();
-        jPanel30 = new javax.swing.JPanel();
-        jPanel31 = new javax.swing.JPanel();
-        jPanel32 = new javax.swing.JPanel();
-        jPanel33 = new javax.swing.JPanel();
-        pnlA38 = new javax.swing.JPanel();
-        pnlA39 = new javax.swing.JPanel();
-        pnlA40 = new javax.swing.JPanel();
+        pnlH1 = new javax.swing.JPanel();
+        pnlH2 = new javax.swing.JPanel();
+        pnlH4 = new javax.swing.JPanel();
+        pnlG3 = new javax.swing.JPanel();
+        pnlF2 = new javax.swing.JPanel();
+        pnlE1 = new javax.swing.JPanel();
+        pnlG1 = new javax.swing.JPanel();
+        pnlG2 = new javax.swing.JPanel();
+        pnlH3 = new javax.swing.JPanel();
+        pnlF1 = new javax.swing.JPanel();
         pnlBordeIzquierdo = new javax.swing.JPanel();
         pnlBordeSuperior = new javax.swing.JPanel();
         pnlBordeDerecho = new javax.swing.JPanel();
@@ -104,788 +104,788 @@ public class PnlTablero extends javax.swing.JPanel {
         pnlA8.setBackground(new java.awt.Color(255, 255, 255));
         pnlFondoTablero.add(pnlA8, new org.netbeans.lib.awtextra.AbsoluteConstraints(490, 490, 70, 70));
 
-        jPanel2.setBackground(new java.awt.Color(126, 162, 214));
+        pnlA7.setBackground(new java.awt.Color(126, 162, 214));
 
-        javax.swing.GroupLayout jPanel2Layout = new javax.swing.GroupLayout(jPanel2);
-        jPanel2.setLayout(jPanel2Layout);
-        jPanel2Layout.setHorizontalGroup(
-            jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlA7Layout = new javax.swing.GroupLayout(pnlA7);
+        pnlA7.setLayout(pnlA7Layout);
+        pnlA7Layout.setHorizontalGroup(
+            pnlA7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        jPanel2Layout.setVerticalGroup(
-            jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlA7Layout.setVerticalGroup(
+            pnlA7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(jPanel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 490, 70, 70));
+        pnlFondoTablero.add(pnlA7, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 490, 70, 70));
 
-        pnlA9.setBackground(new java.awt.Color(255, 255, 255));
-        pnlFondoTablero.add(pnlA9, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 420, 70, 70));
+        pnlB7.setBackground(new java.awt.Color(255, 255, 255));
+        pnlFondoTablero.add(pnlB7, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 420, 70, 70));
 
-        jPanel3.setBackground(new java.awt.Color(126, 162, 214));
+        pnlB8.setBackground(new java.awt.Color(126, 162, 214));
 
-        javax.swing.GroupLayout jPanel3Layout = new javax.swing.GroupLayout(jPanel3);
-        jPanel3.setLayout(jPanel3Layout);
-        jPanel3Layout.setHorizontalGroup(
-            jPanel3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlB8Layout = new javax.swing.GroupLayout(pnlB8);
+        pnlB8.setLayout(pnlB8Layout);
+        pnlB8Layout.setHorizontalGroup(
+            pnlB8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        jPanel3Layout.setVerticalGroup(
-            jPanel3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlB8Layout.setVerticalGroup(
+            pnlB8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(jPanel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(490, 420, 70, 70));
+        pnlFondoTablero.add(pnlB8, new org.netbeans.lib.awtextra.AbsoluteConstraints(490, 420, 70, 70));
 
-        jPanel4.setBackground(new java.awt.Color(126, 162, 214));
+        pnlC7.setBackground(new java.awt.Color(126, 162, 214));
 
-        javax.swing.GroupLayout jPanel4Layout = new javax.swing.GroupLayout(jPanel4);
-        jPanel4.setLayout(jPanel4Layout);
-        jPanel4Layout.setHorizontalGroup(
-            jPanel4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlC7Layout = new javax.swing.GroupLayout(pnlC7);
+        pnlC7.setLayout(pnlC7Layout);
+        pnlC7Layout.setHorizontalGroup(
+            pnlC7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        jPanel4Layout.setVerticalGroup(
-            jPanel4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlC7Layout.setVerticalGroup(
+            pnlC7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(jPanel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 350, 70, 70));
+        pnlFondoTablero.add(pnlC7, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 350, 70, 70));
 
-        jPanel5.setBackground(new java.awt.Color(126, 162, 214));
+        pnlB6.setBackground(new java.awt.Color(126, 162, 214));
 
-        javax.swing.GroupLayout jPanel5Layout = new javax.swing.GroupLayout(jPanel5);
-        jPanel5.setLayout(jPanel5Layout);
-        jPanel5Layout.setHorizontalGroup(
-            jPanel5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlB6Layout = new javax.swing.GroupLayout(pnlB6);
+        pnlB6.setLayout(pnlB6Layout);
+        pnlB6Layout.setHorizontalGroup(
+            pnlB6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        jPanel5Layout.setVerticalGroup(
-            jPanel5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlB6Layout.setVerticalGroup(
+            pnlB6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(jPanel5, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 420, 70, 70));
+        pnlFondoTablero.add(pnlB6, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 420, 70, 70));
 
-        pnlA10.setBackground(new java.awt.Color(255, 255, 255));
+        pnlC8.setBackground(new java.awt.Color(255, 255, 255));
 
-        javax.swing.GroupLayout pnlA10Layout = new javax.swing.GroupLayout(pnlA10);
-        pnlA10.setLayout(pnlA10Layout);
-        pnlA10Layout.setHorizontalGroup(
-            pnlA10Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlC8Layout = new javax.swing.GroupLayout(pnlC8);
+        pnlC8.setLayout(pnlC8Layout);
+        pnlC8Layout.setHorizontalGroup(
+            pnlC8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        pnlA10Layout.setVerticalGroup(
-            pnlA10Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlC8Layout.setVerticalGroup(
+            pnlC8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(pnlA10, new org.netbeans.lib.awtextra.AbsoluteConstraints(490, 350, 70, 70));
+        pnlFondoTablero.add(pnlC8, new org.netbeans.lib.awtextra.AbsoluteConstraints(490, 350, 70, 70));
 
-        pnlA11.setBackground(new java.awt.Color(255, 255, 255));
+        pnlA6.setBackground(new java.awt.Color(255, 255, 255));
 
-        javax.swing.GroupLayout pnlA11Layout = new javax.swing.GroupLayout(pnlA11);
-        pnlA11.setLayout(pnlA11Layout);
-        pnlA11Layout.setHorizontalGroup(
-            pnlA11Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlA6Layout = new javax.swing.GroupLayout(pnlA6);
+        pnlA6.setLayout(pnlA6Layout);
+        pnlA6Layout.setHorizontalGroup(
+            pnlA6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        pnlA11Layout.setVerticalGroup(
-            pnlA11Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlA6Layout.setVerticalGroup(
+            pnlA6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(pnlA11, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 490, 70, 70));
+        pnlFondoTablero.add(pnlA6, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 490, 70, 70));
 
-        pnlA12.setBackground(new java.awt.Color(255, 255, 255));
+        pnlB5.setBackground(new java.awt.Color(255, 255, 255));
 
-        javax.swing.GroupLayout pnlA12Layout = new javax.swing.GroupLayout(pnlA12);
-        pnlA12.setLayout(pnlA12Layout);
-        pnlA12Layout.setHorizontalGroup(
-            pnlA12Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlB5Layout = new javax.swing.GroupLayout(pnlB5);
+        pnlB5.setLayout(pnlB5Layout);
+        pnlB5Layout.setHorizontalGroup(
+            pnlB5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        pnlA12Layout.setVerticalGroup(
-            pnlA12Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlB5Layout.setVerticalGroup(
+            pnlB5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(pnlA12, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 420, 70, 70));
+        pnlFondoTablero.add(pnlB5, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 420, 70, 70));
 
-        pnlA13.setBackground(new java.awt.Color(255, 255, 255));
+        pnlD7.setBackground(new java.awt.Color(255, 255, 255));
 
-        javax.swing.GroupLayout pnlA13Layout = new javax.swing.GroupLayout(pnlA13);
-        pnlA13.setLayout(pnlA13Layout);
-        pnlA13Layout.setHorizontalGroup(
-            pnlA13Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlD7Layout = new javax.swing.GroupLayout(pnlD7);
+        pnlD7.setLayout(pnlD7Layout);
+        pnlD7Layout.setHorizontalGroup(
+            pnlD7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        pnlA13Layout.setVerticalGroup(
-            pnlA13Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlD7Layout.setVerticalGroup(
+            pnlD7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(pnlA13, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 280, 70, 70));
+        pnlFondoTablero.add(pnlD7, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 280, 70, 70));
 
-        pnlA14.setBackground(new java.awt.Color(255, 255, 255));
+        pnlC6.setBackground(new java.awt.Color(255, 255, 255));
 
-        javax.swing.GroupLayout pnlA14Layout = new javax.swing.GroupLayout(pnlA14);
-        pnlA14.setLayout(pnlA14Layout);
-        pnlA14Layout.setHorizontalGroup(
-            pnlA14Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlC6Layout = new javax.swing.GroupLayout(pnlC6);
+        pnlC6.setLayout(pnlC6Layout);
+        pnlC6Layout.setHorizontalGroup(
+            pnlC6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        pnlA14Layout.setVerticalGroup(
-            pnlA14Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlC6Layout.setVerticalGroup(
+            pnlC6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(pnlA14, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 350, 70, 70));
+        pnlFondoTablero.add(pnlC6, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 350, 70, 70));
 
-        jPanel6.setBackground(new java.awt.Color(126, 162, 214));
+        pnlD8.setBackground(new java.awt.Color(126, 162, 214));
 
-        javax.swing.GroupLayout jPanel6Layout = new javax.swing.GroupLayout(jPanel6);
-        jPanel6.setLayout(jPanel6Layout);
-        jPanel6Layout.setHorizontalGroup(
-            jPanel6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlD8Layout = new javax.swing.GroupLayout(pnlD8);
+        pnlD8.setLayout(pnlD8Layout);
+        pnlD8Layout.setHorizontalGroup(
+            pnlD8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        jPanel6Layout.setVerticalGroup(
-            jPanel6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlD8Layout.setVerticalGroup(
+            pnlD8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(jPanel6, new org.netbeans.lib.awtextra.AbsoluteConstraints(490, 280, 70, 70));
+        pnlFondoTablero.add(pnlD8, new org.netbeans.lib.awtextra.AbsoluteConstraints(490, 280, 70, 70));
 
-        jPanel7.setBackground(new java.awt.Color(126, 162, 214));
+        pnlD6.setBackground(new java.awt.Color(126, 162, 214));
 
-        javax.swing.GroupLayout jPanel7Layout = new javax.swing.GroupLayout(jPanel7);
-        jPanel7.setLayout(jPanel7Layout);
-        jPanel7Layout.setHorizontalGroup(
-            jPanel7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlD6Layout = new javax.swing.GroupLayout(pnlD6);
+        pnlD6.setLayout(pnlD6Layout);
+        pnlD6Layout.setHorizontalGroup(
+            pnlD6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        jPanel7Layout.setVerticalGroup(
-            jPanel7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlD6Layout.setVerticalGroup(
+            pnlD6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(jPanel7, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 280, 70, 70));
+        pnlFondoTablero.add(pnlD6, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 280, 70, 70));
 
-        jPanel8.setBackground(new java.awt.Color(126, 162, 214));
+        pnlC5.setBackground(new java.awt.Color(126, 162, 214));
 
-        javax.swing.GroupLayout jPanel8Layout = new javax.swing.GroupLayout(jPanel8);
-        jPanel8.setLayout(jPanel8Layout);
-        jPanel8Layout.setHorizontalGroup(
-            jPanel8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlC5Layout = new javax.swing.GroupLayout(pnlC5);
+        pnlC5.setLayout(pnlC5Layout);
+        pnlC5Layout.setHorizontalGroup(
+            pnlC5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        jPanel8Layout.setVerticalGroup(
-            jPanel8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlC5Layout.setVerticalGroup(
+            pnlC5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(jPanel8, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 350, 70, 70));
+        pnlFondoTablero.add(pnlC5, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 350, 70, 70));
 
-        jPanel9.setBackground(new java.awt.Color(126, 162, 214));
+        pnlA5.setBackground(new java.awt.Color(126, 162, 214));
 
-        javax.swing.GroupLayout jPanel9Layout = new javax.swing.GroupLayout(jPanel9);
-        jPanel9.setLayout(jPanel9Layout);
-        jPanel9Layout.setHorizontalGroup(
-            jPanel9Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlA5Layout = new javax.swing.GroupLayout(pnlA5);
+        pnlA5.setLayout(pnlA5Layout);
+        pnlA5Layout.setHorizontalGroup(
+            pnlA5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        jPanel9Layout.setVerticalGroup(
-            jPanel9Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlA5Layout.setVerticalGroup(
+            pnlA5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(jPanel9, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 490, 70, 70));
+        pnlFondoTablero.add(pnlA5, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 490, 70, 70));
 
-        jPanel10.setBackground(new java.awt.Color(126, 162, 214));
+        pnlB4.setBackground(new java.awt.Color(126, 162, 214));
 
-        javax.swing.GroupLayout jPanel10Layout = new javax.swing.GroupLayout(jPanel10);
-        jPanel10.setLayout(jPanel10Layout);
-        jPanel10Layout.setHorizontalGroup(
-            jPanel10Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlB4Layout = new javax.swing.GroupLayout(pnlB4);
+        pnlB4.setLayout(pnlB4Layout);
+        pnlB4Layout.setHorizontalGroup(
+            pnlB4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        jPanel10Layout.setVerticalGroup(
-            jPanel10Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlB4Layout.setVerticalGroup(
+            pnlB4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(jPanel10, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 420, 70, 70));
+        pnlFondoTablero.add(pnlB4, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 420, 70, 70));
 
-        jPanel11.setBackground(new java.awt.Color(126, 162, 214));
+        pnlE7.setBackground(new java.awt.Color(126, 162, 214));
 
-        javax.swing.GroupLayout jPanel11Layout = new javax.swing.GroupLayout(jPanel11);
-        jPanel11.setLayout(jPanel11Layout);
-        jPanel11Layout.setHorizontalGroup(
-            jPanel11Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlE7Layout = new javax.swing.GroupLayout(pnlE7);
+        pnlE7.setLayout(pnlE7Layout);
+        pnlE7Layout.setHorizontalGroup(
+            pnlE7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        jPanel11Layout.setVerticalGroup(
-            jPanel11Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlE7Layout.setVerticalGroup(
+            pnlE7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(jPanel11, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 210, 70, 70));
+        pnlFondoTablero.add(pnlE7, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 210, 70, 70));
 
-        pnlA15.setBackground(new java.awt.Color(255, 255, 255));
+        pnlE8.setBackground(new java.awt.Color(255, 255, 255));
 
-        javax.swing.GroupLayout pnlA15Layout = new javax.swing.GroupLayout(pnlA15);
-        pnlA15.setLayout(pnlA15Layout);
-        pnlA15Layout.setHorizontalGroup(
-            pnlA15Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlE8Layout = new javax.swing.GroupLayout(pnlE8);
+        pnlE8.setLayout(pnlE8Layout);
+        pnlE8Layout.setHorizontalGroup(
+            pnlE8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        pnlA15Layout.setVerticalGroup(
-            pnlA15Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlE8Layout.setVerticalGroup(
+            pnlE8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(pnlA15, new org.netbeans.lib.awtextra.AbsoluteConstraints(490, 210, 70, 70));
+        pnlFondoTablero.add(pnlE8, new org.netbeans.lib.awtextra.AbsoluteConstraints(490, 210, 70, 70));
 
-        pnlA16.setBackground(new java.awt.Color(255, 255, 255));
+        pnlE6.setBackground(new java.awt.Color(255, 255, 255));
 
-        javax.swing.GroupLayout pnlA16Layout = new javax.swing.GroupLayout(pnlA16);
-        pnlA16.setLayout(pnlA16Layout);
-        pnlA16Layout.setHorizontalGroup(
-            pnlA16Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlE6Layout = new javax.swing.GroupLayout(pnlE6);
+        pnlE6.setLayout(pnlE6Layout);
+        pnlE6Layout.setHorizontalGroup(
+            pnlE6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        pnlA16Layout.setVerticalGroup(
-            pnlA16Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlE6Layout.setVerticalGroup(
+            pnlE6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(pnlA16, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 210, 70, 70));
+        pnlFondoTablero.add(pnlE6, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 210, 70, 70));
 
-        pnlA17.setBackground(new java.awt.Color(255, 255, 255));
+        pnlF7.setBackground(new java.awt.Color(255, 255, 255));
 
-        javax.swing.GroupLayout pnlA17Layout = new javax.swing.GroupLayout(pnlA17);
-        pnlA17.setLayout(pnlA17Layout);
-        pnlA17Layout.setHorizontalGroup(
-            pnlA17Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlF7Layout = new javax.swing.GroupLayout(pnlF7);
+        pnlF7.setLayout(pnlF7Layout);
+        pnlF7Layout.setHorizontalGroup(
+            pnlF7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        pnlA17Layout.setVerticalGroup(
-            pnlA17Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlF7Layout.setVerticalGroup(
+            pnlF7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(pnlA17, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 140, 70, 70));
+        pnlFondoTablero.add(pnlF7, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 140, 70, 70));
 
-        pnlA18.setBackground(new java.awt.Color(255, 255, 255));
+        pnlD5.setBackground(new java.awt.Color(255, 255, 255));
 
-        javax.swing.GroupLayout pnlA18Layout = new javax.swing.GroupLayout(pnlA18);
-        pnlA18.setLayout(pnlA18Layout);
-        pnlA18Layout.setHorizontalGroup(
-            pnlA18Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlD5Layout = new javax.swing.GroupLayout(pnlD5);
+        pnlD5.setLayout(pnlD5Layout);
+        pnlD5Layout.setHorizontalGroup(
+            pnlD5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        pnlA18Layout.setVerticalGroup(
-            pnlA18Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlD5Layout.setVerticalGroup(
+            pnlD5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(pnlA18, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 280, 70, 70));
+        pnlFondoTablero.add(pnlD5, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 280, 70, 70));
 
-        pnlA19.setBackground(new java.awt.Color(255, 255, 255));
+        pnlC4.setBackground(new java.awt.Color(255, 255, 255));
 
-        javax.swing.GroupLayout pnlA19Layout = new javax.swing.GroupLayout(pnlA19);
-        pnlA19.setLayout(pnlA19Layout);
-        pnlA19Layout.setHorizontalGroup(
-            pnlA19Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlC4Layout = new javax.swing.GroupLayout(pnlC4);
+        pnlC4.setLayout(pnlC4Layout);
+        pnlC4Layout.setHorizontalGroup(
+            pnlC4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        pnlA19Layout.setVerticalGroup(
-            pnlA19Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlC4Layout.setVerticalGroup(
+            pnlC4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(pnlA19, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 350, 70, 70));
+        pnlFondoTablero.add(pnlC4, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 350, 70, 70));
 
-        pnlA20.setBackground(new java.awt.Color(255, 255, 255));
+        pnlA4.setBackground(new java.awt.Color(255, 255, 255));
 
-        javax.swing.GroupLayout pnlA20Layout = new javax.swing.GroupLayout(pnlA20);
-        pnlA20.setLayout(pnlA20Layout);
-        pnlA20Layout.setHorizontalGroup(
-            pnlA20Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlA4Layout = new javax.swing.GroupLayout(pnlA4);
+        pnlA4.setLayout(pnlA4Layout);
+        pnlA4Layout.setHorizontalGroup(
+            pnlA4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        pnlA20Layout.setVerticalGroup(
-            pnlA20Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlA4Layout.setVerticalGroup(
+            pnlA4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(pnlA20, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 490, 70, 70));
+        pnlFondoTablero.add(pnlA4, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 490, 70, 70));
 
-        pnlA21.setBackground(new java.awt.Color(255, 255, 255));
+        pnlB3.setBackground(new java.awt.Color(255, 255, 255));
 
-        javax.swing.GroupLayout pnlA21Layout = new javax.swing.GroupLayout(pnlA21);
-        pnlA21.setLayout(pnlA21Layout);
-        pnlA21Layout.setHorizontalGroup(
-            pnlA21Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlB3Layout = new javax.swing.GroupLayout(pnlB3);
+        pnlB3.setLayout(pnlB3Layout);
+        pnlB3Layout.setHorizontalGroup(
+            pnlB3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        pnlA21Layout.setVerticalGroup(
-            pnlA21Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlB3Layout.setVerticalGroup(
+            pnlB3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(pnlA21, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 420, 70, 70));
+        pnlFondoTablero.add(pnlB3, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 420, 70, 70));
 
-        jPanel12.setBackground(new java.awt.Color(126, 162, 214));
+        pnlA3.setBackground(new java.awt.Color(126, 162, 214));
 
-        javax.swing.GroupLayout jPanel12Layout = new javax.swing.GroupLayout(jPanel12);
-        jPanel12.setLayout(jPanel12Layout);
-        jPanel12Layout.setHorizontalGroup(
-            jPanel12Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlA3Layout = new javax.swing.GroupLayout(pnlA3);
+        pnlA3.setLayout(pnlA3Layout);
+        pnlA3Layout.setHorizontalGroup(
+            pnlA3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        jPanel12Layout.setVerticalGroup(
-            jPanel12Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlA3Layout.setVerticalGroup(
+            pnlA3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(jPanel12, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 490, 70, 70));
+        pnlFondoTablero.add(pnlA3, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 490, 70, 70));
 
-        jPanel13.setBackground(new java.awt.Color(126, 162, 214));
+        pnlB2.setBackground(new java.awt.Color(126, 162, 214));
 
-        javax.swing.GroupLayout jPanel13Layout = new javax.swing.GroupLayout(jPanel13);
-        jPanel13.setLayout(jPanel13Layout);
-        jPanel13Layout.setHorizontalGroup(
-            jPanel13Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlB2Layout = new javax.swing.GroupLayout(pnlB2);
+        pnlB2.setLayout(pnlB2Layout);
+        pnlB2Layout.setHorizontalGroup(
+            pnlB2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        jPanel13Layout.setVerticalGroup(
-            jPanel13Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlB2Layout.setVerticalGroup(
+            pnlB2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(jPanel13, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 420, 70, 70));
+        pnlFondoTablero.add(pnlB2, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 420, 70, 70));
 
-        jPanel14.setBackground(new java.awt.Color(126, 162, 214));
+        pnlC3.setBackground(new java.awt.Color(126, 162, 214));
 
-        javax.swing.GroupLayout jPanel14Layout = new javax.swing.GroupLayout(jPanel14);
-        jPanel14.setLayout(jPanel14Layout);
-        jPanel14Layout.setHorizontalGroup(
-            jPanel14Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlC3Layout = new javax.swing.GroupLayout(pnlC3);
+        pnlC3.setLayout(pnlC3Layout);
+        pnlC3Layout.setHorizontalGroup(
+            pnlC3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        jPanel14Layout.setVerticalGroup(
-            jPanel14Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlC3Layout.setVerticalGroup(
+            pnlC3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(jPanel14, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 350, 70, 70));
+        pnlFondoTablero.add(pnlC3, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 350, 70, 70));
 
-        jPanel15.setBackground(new java.awt.Color(126, 162, 214));
+        pnlD4.setBackground(new java.awt.Color(126, 162, 214));
 
-        javax.swing.GroupLayout jPanel15Layout = new javax.swing.GroupLayout(jPanel15);
-        jPanel15.setLayout(jPanel15Layout);
-        jPanel15Layout.setHorizontalGroup(
-            jPanel15Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlD4Layout = new javax.swing.GroupLayout(pnlD4);
+        pnlD4.setLayout(pnlD4Layout);
+        pnlD4Layout.setHorizontalGroup(
+            pnlD4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        jPanel15Layout.setVerticalGroup(
-            jPanel15Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlD4Layout.setVerticalGroup(
+            pnlD4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(jPanel15, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 280, 70, 70));
+        pnlFondoTablero.add(pnlD4, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 280, 70, 70));
 
-        jPanel16.setBackground(new java.awt.Color(126, 162, 214));
+        pnlE5.setBackground(new java.awt.Color(126, 162, 214));
 
-        javax.swing.GroupLayout jPanel16Layout = new javax.swing.GroupLayout(jPanel16);
-        jPanel16.setLayout(jPanel16Layout);
-        jPanel16Layout.setHorizontalGroup(
-            jPanel16Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlE5Layout = new javax.swing.GroupLayout(pnlE5);
+        pnlE5.setLayout(pnlE5Layout);
+        pnlE5Layout.setHorizontalGroup(
+            pnlE5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        jPanel16Layout.setVerticalGroup(
-            jPanel16Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlE5Layout.setVerticalGroup(
+            pnlE5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(jPanel16, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 210, 70, 70));
+        pnlFondoTablero.add(pnlE5, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 210, 70, 70));
 
-        jPanel17.setBackground(new java.awt.Color(126, 162, 214));
+        pnlF6.setBackground(new java.awt.Color(126, 162, 214));
 
-        javax.swing.GroupLayout jPanel17Layout = new javax.swing.GroupLayout(jPanel17);
-        jPanel17.setLayout(jPanel17Layout);
-        jPanel17Layout.setHorizontalGroup(
-            jPanel17Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlF6Layout = new javax.swing.GroupLayout(pnlF6);
+        pnlF6.setLayout(pnlF6Layout);
+        pnlF6Layout.setHorizontalGroup(
+            pnlF6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        jPanel17Layout.setVerticalGroup(
-            jPanel17Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlF6Layout.setVerticalGroup(
+            pnlF6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(jPanel17, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 140, 70, 70));
+        pnlFondoTablero.add(pnlF6, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 140, 70, 70));
 
-        jPanel18.setBackground(new java.awt.Color(126, 162, 214));
+        pnlF8.setBackground(new java.awt.Color(126, 162, 214));
 
-        javax.swing.GroupLayout jPanel18Layout = new javax.swing.GroupLayout(jPanel18);
-        jPanel18.setLayout(jPanel18Layout);
-        jPanel18Layout.setHorizontalGroup(
-            jPanel18Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlF8Layout = new javax.swing.GroupLayout(pnlF8);
+        pnlF8.setLayout(pnlF8Layout);
+        pnlF8Layout.setHorizontalGroup(
+            pnlF8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        jPanel18Layout.setVerticalGroup(
-            jPanel18Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlF8Layout.setVerticalGroup(
+            pnlF8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(jPanel18, new org.netbeans.lib.awtextra.AbsoluteConstraints(490, 140, 70, 70));
+        pnlFondoTablero.add(pnlF8, new org.netbeans.lib.awtextra.AbsoluteConstraints(490, 140, 70, 70));
 
-        jPanel19.setBackground(new java.awt.Color(126, 162, 214));
+        pnlG7.setBackground(new java.awt.Color(126, 162, 214));
 
-        javax.swing.GroupLayout jPanel19Layout = new javax.swing.GroupLayout(jPanel19);
-        jPanel19.setLayout(jPanel19Layout);
-        jPanel19Layout.setHorizontalGroup(
-            jPanel19Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlG7Layout = new javax.swing.GroupLayout(pnlG7);
+        pnlG7.setLayout(pnlG7Layout);
+        pnlG7Layout.setHorizontalGroup(
+            pnlG7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        jPanel19Layout.setVerticalGroup(
-            jPanel19Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlG7Layout.setVerticalGroup(
+            pnlG7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(jPanel19, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 70, 70, 70));
+        pnlFondoTablero.add(pnlG7, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 70, 70, 70));
 
-        pnlA22.setBackground(new java.awt.Color(255, 255, 255));
+        pnlG8.setBackground(new java.awt.Color(255, 255, 255));
 
-        javax.swing.GroupLayout pnlA22Layout = new javax.swing.GroupLayout(pnlA22);
-        pnlA22.setLayout(pnlA22Layout);
-        pnlA22Layout.setHorizontalGroup(
-            pnlA22Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlG8Layout = new javax.swing.GroupLayout(pnlG8);
+        pnlG8.setLayout(pnlG8Layout);
+        pnlG8Layout.setHorizontalGroup(
+            pnlG8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        pnlA22Layout.setVerticalGroup(
-            pnlA22Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlG8Layout.setVerticalGroup(
+            pnlG8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(pnlA22, new org.netbeans.lib.awtextra.AbsoluteConstraints(490, 70, 70, 70));
+        pnlFondoTablero.add(pnlG8, new org.netbeans.lib.awtextra.AbsoluteConstraints(490, 70, 70, 70));
 
-        pnlA23.setBackground(new java.awt.Color(255, 255, 255));
+        pnlH7.setBackground(new java.awt.Color(255, 255, 255));
 
-        javax.swing.GroupLayout pnlA23Layout = new javax.swing.GroupLayout(pnlA23);
-        pnlA23.setLayout(pnlA23Layout);
-        pnlA23Layout.setHorizontalGroup(
-            pnlA23Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlH7Layout = new javax.swing.GroupLayout(pnlH7);
+        pnlH7.setLayout(pnlH7Layout);
+        pnlH7Layout.setHorizontalGroup(
+            pnlH7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        pnlA23Layout.setVerticalGroup(
-            pnlA23Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlH7Layout.setVerticalGroup(
+            pnlH7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(pnlA23, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 0, 70, 70));
+        pnlFondoTablero.add(pnlH7, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 0, 70, 70));
 
-        pnlA24.setBackground(new java.awt.Color(255, 255, 255));
+        pnlG6.setBackground(new java.awt.Color(255, 255, 255));
 
-        javax.swing.GroupLayout pnlA24Layout = new javax.swing.GroupLayout(pnlA24);
-        pnlA24.setLayout(pnlA24Layout);
-        pnlA24Layout.setHorizontalGroup(
-            pnlA24Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlG6Layout = new javax.swing.GroupLayout(pnlG6);
+        pnlG6.setLayout(pnlG6Layout);
+        pnlG6Layout.setHorizontalGroup(
+            pnlG6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        pnlA24Layout.setVerticalGroup(
-            pnlA24Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlG6Layout.setVerticalGroup(
+            pnlG6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(pnlA24, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 70, 70, 70));
+        pnlFondoTablero.add(pnlG6, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 70, 70, 70));
 
-        pnlA25.setBackground(new java.awt.Color(255, 255, 255));
+        pnlF5.setBackground(new java.awt.Color(255, 255, 255));
 
-        javax.swing.GroupLayout pnlA25Layout = new javax.swing.GroupLayout(pnlA25);
-        pnlA25.setLayout(pnlA25Layout);
-        pnlA25Layout.setHorizontalGroup(
-            pnlA25Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlF5Layout = new javax.swing.GroupLayout(pnlF5);
+        pnlF5.setLayout(pnlF5Layout);
+        pnlF5Layout.setHorizontalGroup(
+            pnlF5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        pnlA25Layout.setVerticalGroup(
-            pnlA25Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlF5Layout.setVerticalGroup(
+            pnlF5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(pnlA25, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 140, 70, 70));
+        pnlFondoTablero.add(pnlF5, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 140, 70, 70));
 
-        pnlA26.setBackground(new java.awt.Color(255, 255, 255));
+        pnlE4.setBackground(new java.awt.Color(255, 255, 255));
 
-        javax.swing.GroupLayout pnlA26Layout = new javax.swing.GroupLayout(pnlA26);
-        pnlA26.setLayout(pnlA26Layout);
-        pnlA26Layout.setHorizontalGroup(
-            pnlA26Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlE4Layout = new javax.swing.GroupLayout(pnlE4);
+        pnlE4.setLayout(pnlE4Layout);
+        pnlE4Layout.setHorizontalGroup(
+            pnlE4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        pnlA26Layout.setVerticalGroup(
-            pnlA26Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlE4Layout.setVerticalGroup(
+            pnlE4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(pnlA26, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 210, 70, 70));
+        pnlFondoTablero.add(pnlE4, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 210, 70, 70));
 
-        pnlA27.setBackground(new java.awt.Color(255, 255, 255));
+        pnlD3.setBackground(new java.awt.Color(255, 255, 255));
 
-        javax.swing.GroupLayout pnlA27Layout = new javax.swing.GroupLayout(pnlA27);
-        pnlA27.setLayout(pnlA27Layout);
-        pnlA27Layout.setHorizontalGroup(
-            pnlA27Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlD3Layout = new javax.swing.GroupLayout(pnlD3);
+        pnlD3.setLayout(pnlD3Layout);
+        pnlD3Layout.setHorizontalGroup(
+            pnlD3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        pnlA27Layout.setVerticalGroup(
-            pnlA27Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlD3Layout.setVerticalGroup(
+            pnlD3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(pnlA27, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 280, 70, 70));
+        pnlFondoTablero.add(pnlD3, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 280, 70, 70));
 
-        pnlA28.setBackground(new java.awt.Color(255, 255, 255));
+        pnlC2.setBackground(new java.awt.Color(255, 255, 255));
 
-        javax.swing.GroupLayout pnlA28Layout = new javax.swing.GroupLayout(pnlA28);
-        pnlA28.setLayout(pnlA28Layout);
-        pnlA28Layout.setHorizontalGroup(
-            pnlA28Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlC2Layout = new javax.swing.GroupLayout(pnlC2);
+        pnlC2.setLayout(pnlC2Layout);
+        pnlC2Layout.setHorizontalGroup(
+            pnlC2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        pnlA28Layout.setVerticalGroup(
-            pnlA28Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlC2Layout.setVerticalGroup(
+            pnlC2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(pnlA28, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 350, 70, 70));
+        pnlFondoTablero.add(pnlC2, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 350, 70, 70));
 
-        pnlA29.setBackground(new java.awt.Color(255, 255, 255));
+        pnlB1.setBackground(new java.awt.Color(255, 255, 255));
 
-        javax.swing.GroupLayout pnlA29Layout = new javax.swing.GroupLayout(pnlA29);
-        pnlA29.setLayout(pnlA29Layout);
-        pnlA29Layout.setHorizontalGroup(
-            pnlA29Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlB1Layout = new javax.swing.GroupLayout(pnlB1);
+        pnlB1.setLayout(pnlB1Layout);
+        pnlB1Layout.setHorizontalGroup(
+            pnlB1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        pnlA29Layout.setVerticalGroup(
-            pnlA29Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlB1Layout.setVerticalGroup(
+            pnlB1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(pnlA29, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 420, 70, 70));
+        pnlFondoTablero.add(pnlB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 420, 70, 70));
 
-        pnlA30.setBackground(new java.awt.Color(255, 255, 255));
+        pnlA2.setBackground(new java.awt.Color(255, 255, 255));
 
-        javax.swing.GroupLayout pnlA30Layout = new javax.swing.GroupLayout(pnlA30);
-        pnlA30.setLayout(pnlA30Layout);
-        pnlA30Layout.setHorizontalGroup(
-            pnlA30Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlA2Layout = new javax.swing.GroupLayout(pnlA2);
+        pnlA2.setLayout(pnlA2Layout);
+        pnlA2Layout.setHorizontalGroup(
+            pnlA2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        pnlA30Layout.setVerticalGroup(
-            pnlA30Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlA2Layout.setVerticalGroup(
+            pnlA2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(pnlA30, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 490, 70, 70));
+        pnlFondoTablero.add(pnlA2, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 490, 70, 70));
 
-        jPanel20.setBackground(new java.awt.Color(126, 162, 214));
+        pnlH8.setBackground(new java.awt.Color(126, 162, 214));
 
-        javax.swing.GroupLayout jPanel20Layout = new javax.swing.GroupLayout(jPanel20);
-        jPanel20.setLayout(jPanel20Layout);
-        jPanel20Layout.setHorizontalGroup(
-            jPanel20Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlH8Layout = new javax.swing.GroupLayout(pnlH8);
+        pnlH8.setLayout(pnlH8Layout);
+        pnlH8Layout.setHorizontalGroup(
+            pnlH8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        jPanel20Layout.setVerticalGroup(
-            jPanel20Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlH8Layout.setVerticalGroup(
+            pnlH8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(jPanel20, new org.netbeans.lib.awtextra.AbsoluteConstraints(490, 0, 70, 70));
+        pnlFondoTablero.add(pnlH8, new org.netbeans.lib.awtextra.AbsoluteConstraints(490, 0, 70, 70));
 
-        jPanel21.setBackground(new java.awt.Color(126, 162, 214));
+        pnlH6.setBackground(new java.awt.Color(126, 162, 214));
 
-        javax.swing.GroupLayout jPanel21Layout = new javax.swing.GroupLayout(jPanel21);
-        jPanel21.setLayout(jPanel21Layout);
-        jPanel21Layout.setHorizontalGroup(
-            jPanel21Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlH6Layout = new javax.swing.GroupLayout(pnlH6);
+        pnlH6.setLayout(pnlH6Layout);
+        pnlH6Layout.setHorizontalGroup(
+            pnlH6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        jPanel21Layout.setVerticalGroup(
-            jPanel21Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlH6Layout.setVerticalGroup(
+            pnlH6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(jPanel21, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 0, 70, 70));
+        pnlFondoTablero.add(pnlH6, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 0, 70, 70));
 
-        jPanel22.setBackground(new java.awt.Color(126, 162, 214));
+        pnlG5.setBackground(new java.awt.Color(126, 162, 214));
 
-        javax.swing.GroupLayout jPanel22Layout = new javax.swing.GroupLayout(jPanel22);
-        jPanel22.setLayout(jPanel22Layout);
-        jPanel22Layout.setHorizontalGroup(
-            jPanel22Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlG5Layout = new javax.swing.GroupLayout(pnlG5);
+        pnlG5.setLayout(pnlG5Layout);
+        pnlG5Layout.setHorizontalGroup(
+            pnlG5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        jPanel22Layout.setVerticalGroup(
-            jPanel22Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlG5Layout.setVerticalGroup(
+            pnlG5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(jPanel22, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 70, 70, 70));
+        pnlFondoTablero.add(pnlG5, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 70, 70, 70));
 
-        jPanel23.setBackground(new java.awt.Color(126, 162, 214));
+        pnlF4.setBackground(new java.awt.Color(126, 162, 214));
 
-        javax.swing.GroupLayout jPanel23Layout = new javax.swing.GroupLayout(jPanel23);
-        jPanel23.setLayout(jPanel23Layout);
-        jPanel23Layout.setHorizontalGroup(
-            jPanel23Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlF4Layout = new javax.swing.GroupLayout(pnlF4);
+        pnlF4.setLayout(pnlF4Layout);
+        pnlF4Layout.setHorizontalGroup(
+            pnlF4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        jPanel23Layout.setVerticalGroup(
-            jPanel23Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlF4Layout.setVerticalGroup(
+            pnlF4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(jPanel23, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 140, 70, 70));
+        pnlFondoTablero.add(pnlF4, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 140, 70, 70));
 
-        jPanel24.setBackground(new java.awt.Color(126, 162, 214));
+        pnlE3.setBackground(new java.awt.Color(126, 162, 214));
 
-        javax.swing.GroupLayout jPanel24Layout = new javax.swing.GroupLayout(jPanel24);
-        jPanel24.setLayout(jPanel24Layout);
-        jPanel24Layout.setHorizontalGroup(
-            jPanel24Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlE3Layout = new javax.swing.GroupLayout(pnlE3);
+        pnlE3.setLayout(pnlE3Layout);
+        pnlE3Layout.setHorizontalGroup(
+            pnlE3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        jPanel24Layout.setVerticalGroup(
-            jPanel24Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlE3Layout.setVerticalGroup(
+            pnlE3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(jPanel24, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 210, 70, 70));
+        pnlFondoTablero.add(pnlE3, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 210, 70, 70));
 
-        jPanel25.setBackground(new java.awt.Color(126, 162, 214));
+        pnlD2.setBackground(new java.awt.Color(126, 162, 214));
 
-        javax.swing.GroupLayout jPanel25Layout = new javax.swing.GroupLayout(jPanel25);
-        jPanel25.setLayout(jPanel25Layout);
-        jPanel25Layout.setHorizontalGroup(
-            jPanel25Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlD2Layout = new javax.swing.GroupLayout(pnlD2);
+        pnlD2.setLayout(pnlD2Layout);
+        pnlD2Layout.setHorizontalGroup(
+            pnlD2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        jPanel25Layout.setVerticalGroup(
-            jPanel25Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlD2Layout.setVerticalGroup(
+            pnlD2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(jPanel25, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 280, 70, 70));
+        pnlFondoTablero.add(pnlD2, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 280, 70, 70));
 
-        jPanel26.setBackground(new java.awt.Color(126, 162, 214));
+        pnlC1.setBackground(new java.awt.Color(126, 162, 214));
 
-        javax.swing.GroupLayout jPanel26Layout = new javax.swing.GroupLayout(jPanel26);
-        jPanel26.setLayout(jPanel26Layout);
-        jPanel26Layout.setHorizontalGroup(
-            jPanel26Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlC1Layout = new javax.swing.GroupLayout(pnlC1);
+        pnlC1.setLayout(pnlC1Layout);
+        pnlC1Layout.setHorizontalGroup(
+            pnlC1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        jPanel26Layout.setVerticalGroup(
-            jPanel26Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlC1Layout.setVerticalGroup(
+            pnlC1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(jPanel26, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 350, 70, 70));
+        pnlFondoTablero.add(pnlC1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 350, 70, 70));
 
-        jPanel27.setBackground(new java.awt.Color(126, 162, 214));
+        pnlA1.setBackground(new java.awt.Color(126, 162, 214));
 
-        javax.swing.GroupLayout jPanel27Layout = new javax.swing.GroupLayout(jPanel27);
-        jPanel27.setLayout(jPanel27Layout);
-        jPanel27Layout.setHorizontalGroup(
-            jPanel27Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlA1Layout = new javax.swing.GroupLayout(pnlA1);
+        pnlA1.setLayout(pnlA1Layout);
+        pnlA1Layout.setHorizontalGroup(
+            pnlA1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        jPanel27Layout.setVerticalGroup(
-            jPanel27Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlA1Layout.setVerticalGroup(
+            pnlA1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(jPanel27, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 490, 70, 70));
+        pnlFondoTablero.add(pnlA1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 490, 70, 70));
 
-        pnlA31.setBackground(new java.awt.Color(255, 255, 255));
+        pnlD1.setBackground(new java.awt.Color(255, 255, 255));
 
-        javax.swing.GroupLayout pnlA31Layout = new javax.swing.GroupLayout(pnlA31);
-        pnlA31.setLayout(pnlA31Layout);
-        pnlA31Layout.setHorizontalGroup(
-            pnlA31Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlD1Layout = new javax.swing.GroupLayout(pnlD1);
+        pnlD1.setLayout(pnlD1Layout);
+        pnlD1Layout.setHorizontalGroup(
+            pnlD1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        pnlA31Layout.setVerticalGroup(
-            pnlA31Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlD1Layout.setVerticalGroup(
+            pnlD1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(pnlA31, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 280, 70, 70));
+        pnlFondoTablero.add(pnlD1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 280, 70, 70));
 
-        pnlA32.setBackground(new java.awt.Color(255, 255, 255));
+        pnlE2.setBackground(new java.awt.Color(255, 255, 255));
 
-        javax.swing.GroupLayout pnlA32Layout = new javax.swing.GroupLayout(pnlA32);
-        pnlA32.setLayout(pnlA32Layout);
-        pnlA32Layout.setHorizontalGroup(
-            pnlA32Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlE2Layout = new javax.swing.GroupLayout(pnlE2);
+        pnlE2.setLayout(pnlE2Layout);
+        pnlE2Layout.setHorizontalGroup(
+            pnlE2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        pnlA32Layout.setVerticalGroup(
-            pnlA32Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlE2Layout.setVerticalGroup(
+            pnlE2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(pnlA32, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 210, 70, 70));
+        pnlFondoTablero.add(pnlE2, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 210, 70, 70));
 
-        pnlA33.setBackground(new java.awt.Color(255, 255, 255));
+        pnlF3.setBackground(new java.awt.Color(255, 255, 255));
 
-        javax.swing.GroupLayout pnlA33Layout = new javax.swing.GroupLayout(pnlA33);
-        pnlA33.setLayout(pnlA33Layout);
-        pnlA33Layout.setHorizontalGroup(
-            pnlA33Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlF3Layout = new javax.swing.GroupLayout(pnlF3);
+        pnlF3.setLayout(pnlF3Layout);
+        pnlF3Layout.setHorizontalGroup(
+            pnlF3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        pnlA33Layout.setVerticalGroup(
-            pnlA33Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlF3Layout.setVerticalGroup(
+            pnlF3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(pnlA33, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 140, 70, 70));
+        pnlFondoTablero.add(pnlF3, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 140, 70, 70));
 
-        pnlA34.setBackground(new java.awt.Color(255, 255, 255));
+        pnlG4.setBackground(new java.awt.Color(255, 255, 255));
 
-        javax.swing.GroupLayout pnlA34Layout = new javax.swing.GroupLayout(pnlA34);
-        pnlA34.setLayout(pnlA34Layout);
-        pnlA34Layout.setHorizontalGroup(
-            pnlA34Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlG4Layout = new javax.swing.GroupLayout(pnlG4);
+        pnlG4.setLayout(pnlG4Layout);
+        pnlG4Layout.setHorizontalGroup(
+            pnlG4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        pnlA34Layout.setVerticalGroup(
-            pnlA34Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlG4Layout.setVerticalGroup(
+            pnlG4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(pnlA34, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 70, 70, 70));
+        pnlFondoTablero.add(pnlG4, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 70, 70, 70));
 
-        pnlA35.setBackground(new java.awt.Color(255, 255, 255));
+        pnlH5.setBackground(new java.awt.Color(255, 255, 255));
 
-        javax.swing.GroupLayout pnlA35Layout = new javax.swing.GroupLayout(pnlA35);
-        pnlA35.setLayout(pnlA35Layout);
-        pnlA35Layout.setHorizontalGroup(
-            pnlA35Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlH5Layout = new javax.swing.GroupLayout(pnlH5);
+        pnlH5.setLayout(pnlH5Layout);
+        pnlH5Layout.setHorizontalGroup(
+            pnlH5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        pnlA35Layout.setVerticalGroup(
-            pnlA35Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlH5Layout.setVerticalGroup(
+            pnlH5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(pnlA35, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 0, 70, 70));
+        pnlFondoTablero.add(pnlH5, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 0, 70, 70));
 
         pnlA36.setBackground(new java.awt.Color(255, 255, 255));
 
@@ -902,155 +902,155 @@ public class PnlTablero extends javax.swing.JPanel {
 
         pnlFondoTablero.add(pnlA36, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 350, 70, 70));
 
-        pnlA37.setBackground(new java.awt.Color(255, 255, 255));
+        pnlH1.setBackground(new java.awt.Color(255, 255, 255));
 
-        javax.swing.GroupLayout pnlA37Layout = new javax.swing.GroupLayout(pnlA37);
-        pnlA37.setLayout(pnlA37Layout);
-        pnlA37Layout.setHorizontalGroup(
-            pnlA37Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlH1Layout = new javax.swing.GroupLayout(pnlH1);
+        pnlH1.setLayout(pnlH1Layout);
+        pnlH1Layout.setHorizontalGroup(
+            pnlH1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        pnlA37Layout.setVerticalGroup(
-            pnlA37Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-
-        pnlFondoTablero.add(pnlA37, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 70, 70));
-
-        jPanel28.setBackground(new java.awt.Color(126, 162, 214));
-
-        javax.swing.GroupLayout jPanel28Layout = new javax.swing.GroupLayout(jPanel28);
-        jPanel28.setLayout(jPanel28Layout);
-        jPanel28Layout.setHorizontalGroup(
-            jPanel28Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        jPanel28Layout.setVerticalGroup(
-            jPanel28Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlH1Layout.setVerticalGroup(
+            pnlH1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(jPanel28, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 0, 70, 70));
+        pnlFondoTablero.add(pnlH1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 70, 70));
 
-        jPanel29.setBackground(new java.awt.Color(126, 162, 214));
+        pnlH2.setBackground(new java.awt.Color(126, 162, 214));
 
-        javax.swing.GroupLayout jPanel29Layout = new javax.swing.GroupLayout(jPanel29);
-        jPanel29.setLayout(jPanel29Layout);
-        jPanel29Layout.setHorizontalGroup(
-            jPanel29Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlH2Layout = new javax.swing.GroupLayout(pnlH2);
+        pnlH2.setLayout(pnlH2Layout);
+        pnlH2Layout.setHorizontalGroup(
+            pnlH2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        jPanel29Layout.setVerticalGroup(
-            jPanel29Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-
-        pnlFondoTablero.add(jPanel29, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 0, 70, 70));
-
-        jPanel30.setBackground(new java.awt.Color(126, 162, 214));
-
-        javax.swing.GroupLayout jPanel30Layout = new javax.swing.GroupLayout(jPanel30);
-        jPanel30.setLayout(jPanel30Layout);
-        jPanel30Layout.setHorizontalGroup(
-            jPanel30Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        jPanel30Layout.setVerticalGroup(
-            jPanel30Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlH2Layout.setVerticalGroup(
+            pnlH2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(jPanel30, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 70, 70, 70));
+        pnlFondoTablero.add(pnlH2, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 0, 70, 70));
 
-        jPanel31.setBackground(new java.awt.Color(126, 162, 214));
+        pnlH4.setBackground(new java.awt.Color(126, 162, 214));
 
-        javax.swing.GroupLayout jPanel31Layout = new javax.swing.GroupLayout(jPanel31);
-        jPanel31.setLayout(jPanel31Layout);
-        jPanel31Layout.setHorizontalGroup(
-            jPanel31Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlH4Layout = new javax.swing.GroupLayout(pnlH4);
+        pnlH4.setLayout(pnlH4Layout);
+        pnlH4Layout.setHorizontalGroup(
+            pnlH4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        jPanel31Layout.setVerticalGroup(
-            jPanel31Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-
-        pnlFondoTablero.add(jPanel31, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 140, 70, 70));
-
-        jPanel32.setBackground(new java.awt.Color(126, 162, 214));
-
-        javax.swing.GroupLayout jPanel32Layout = new javax.swing.GroupLayout(jPanel32);
-        jPanel32.setLayout(jPanel32Layout);
-        jPanel32Layout.setHorizontalGroup(
-            jPanel32Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        jPanel32Layout.setVerticalGroup(
-            jPanel32Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlH4Layout.setVerticalGroup(
+            pnlH4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(jPanel32, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 210, 70, 70));
+        pnlFondoTablero.add(pnlH4, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 0, 70, 70));
 
-        jPanel33.setBackground(new java.awt.Color(126, 162, 214));
+        pnlG3.setBackground(new java.awt.Color(126, 162, 214));
 
-        javax.swing.GroupLayout jPanel33Layout = new javax.swing.GroupLayout(jPanel33);
-        jPanel33.setLayout(jPanel33Layout);
-        jPanel33Layout.setHorizontalGroup(
-            jPanel33Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlG3Layout = new javax.swing.GroupLayout(pnlG3);
+        pnlG3.setLayout(pnlG3Layout);
+        pnlG3Layout.setHorizontalGroup(
+            pnlG3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        jPanel33Layout.setVerticalGroup(
-            jPanel33Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-
-        pnlFondoTablero.add(jPanel33, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 70, 70, 70));
-
-        pnlA38.setBackground(new java.awt.Color(255, 255, 255));
-
-        javax.swing.GroupLayout pnlA38Layout = new javax.swing.GroupLayout(pnlA38);
-        pnlA38.setLayout(pnlA38Layout);
-        pnlA38Layout.setHorizontalGroup(
-            pnlA38Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlA38Layout.setVerticalGroup(
-            pnlA38Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlG3Layout.setVerticalGroup(
+            pnlG3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(pnlA38, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 70, 70, 70));
+        pnlFondoTablero.add(pnlG3, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 70, 70, 70));
 
-        pnlA39.setBackground(new java.awt.Color(255, 255, 255));
+        pnlF2.setBackground(new java.awt.Color(126, 162, 214));
 
-        javax.swing.GroupLayout pnlA39Layout = new javax.swing.GroupLayout(pnlA39);
-        pnlA39.setLayout(pnlA39Layout);
-        pnlA39Layout.setHorizontalGroup(
-            pnlA39Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        javax.swing.GroupLayout pnlF2Layout = new javax.swing.GroupLayout(pnlF2);
+        pnlF2.setLayout(pnlF2Layout);
+        pnlF2Layout.setHorizontalGroup(
+            pnlF2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
-        pnlA39Layout.setVerticalGroup(
-            pnlA39Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-
-        pnlFondoTablero.add(pnlA39, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 0, 70, 70));
-
-        pnlA40.setBackground(new java.awt.Color(255, 255, 255));
-
-        javax.swing.GroupLayout pnlA40Layout = new javax.swing.GroupLayout(pnlA40);
-        pnlA40.setLayout(pnlA40Layout);
-        pnlA40Layout.setHorizontalGroup(
-            pnlA40Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlA40Layout.setVerticalGroup(
-            pnlA40Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+        pnlF2Layout.setVerticalGroup(
+            pnlF2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGap(0, 70, Short.MAX_VALUE)
         );
 
-        pnlFondoTablero.add(pnlA40, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 140, 70, 70));
+        pnlFondoTablero.add(pnlF2, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 140, 70, 70));
+
+        pnlE1.setBackground(new java.awt.Color(126, 162, 214));
+
+        javax.swing.GroupLayout pnlE1Layout = new javax.swing.GroupLayout(pnlE1);
+        pnlE1.setLayout(pnlE1Layout);
+        pnlE1Layout.setHorizontalGroup(
+            pnlE1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGap(0, 70, Short.MAX_VALUE)
+        );
+        pnlE1Layout.setVerticalGroup(
+            pnlE1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGap(0, 70, Short.MAX_VALUE)
+        );
+
+        pnlFondoTablero.add(pnlE1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 210, 70, 70));
+
+        pnlG1.setBackground(new java.awt.Color(126, 162, 214));
+
+        javax.swing.GroupLayout pnlG1Layout = new javax.swing.GroupLayout(pnlG1);
+        pnlG1.setLayout(pnlG1Layout);
+        pnlG1Layout.setHorizontalGroup(
+            pnlG1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGap(0, 70, Short.MAX_VALUE)
+        );
+        pnlG1Layout.setVerticalGroup(
+            pnlG1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGap(0, 70, Short.MAX_VALUE)
+        );
+
+        pnlFondoTablero.add(pnlG1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 70, 70, 70));
+
+        pnlG2.setBackground(new java.awt.Color(255, 255, 255));
+
+        javax.swing.GroupLayout pnlG2Layout = new javax.swing.GroupLayout(pnlG2);
+        pnlG2.setLayout(pnlG2Layout);
+        pnlG2Layout.setHorizontalGroup(
+            pnlG2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGap(0, 70, Short.MAX_VALUE)
+        );
+        pnlG2Layout.setVerticalGroup(
+            pnlG2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGap(0, 70, Short.MAX_VALUE)
+        );
+
+        pnlFondoTablero.add(pnlG2, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 70, 70, 70));
+
+        pnlH3.setBackground(new java.awt.Color(255, 255, 255));
+
+        javax.swing.GroupLayout pnlH3Layout = new javax.swing.GroupLayout(pnlH3);
+        pnlH3.setLayout(pnlH3Layout);
+        pnlH3Layout.setHorizontalGroup(
+            pnlH3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGap(0, 70, Short.MAX_VALUE)
+        );
+        pnlH3Layout.setVerticalGroup(
+            pnlH3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGap(0, 70, Short.MAX_VALUE)
+        );
+
+        pnlFondoTablero.add(pnlH3, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 0, 70, 70));
+
+        pnlF1.setBackground(new java.awt.Color(255, 255, 255));
+
+        javax.swing.GroupLayout pnlF1Layout = new javax.swing.GroupLayout(pnlF1);
+        pnlF1.setLayout(pnlF1Layout);
+        pnlF1Layout.setHorizontalGroup(
+            pnlF1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGap(0, 70, Short.MAX_VALUE)
+        );
+        pnlF1Layout.setVerticalGroup(
+            pnlF1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGap(0, 70, Short.MAX_VALUE)
+        );
+
+        pnlFondoTablero.add(pnlF1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 140, 70, 70));
 
         pnlBordeIzquierdo.setBackground(new java.awt.Color(0, 109, 200));
 
@@ -1141,75 +1141,75 @@ public class PnlTablero extends javax.swing.JPanel {
 
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
-    private javax.swing.JPanel jPanel10;
-    private javax.swing.JPanel jPanel11;
-    private javax.swing.JPanel jPanel12;
-    private javax.swing.JPanel jPanel13;
-    private javax.swing.JPanel jPanel14;
-    private javax.swing.JPanel jPanel15;
-    private javax.swing.JPanel jPanel16;
-    private javax.swing.JPanel jPanel17;
-    private javax.swing.JPanel jPanel18;
-    private javax.swing.JPanel jPanel19;
-    private javax.swing.JPanel jPanel2;
-    private javax.swing.JPanel jPanel20;
-    private javax.swing.JPanel jPanel21;
-    private javax.swing.JPanel jPanel22;
-    private javax.swing.JPanel jPanel23;
-    private javax.swing.JPanel jPanel24;
-    private javax.swing.JPanel jPanel25;
-    private javax.swing.JPanel jPanel26;
-    private javax.swing.JPanel jPanel27;
-    private javax.swing.JPanel jPanel28;
-    private javax.swing.JPanel jPanel29;
-    private javax.swing.JPanel jPanel3;
-    private javax.swing.JPanel jPanel30;
-    private javax.swing.JPanel jPanel31;
-    private javax.swing.JPanel jPanel32;
-    private javax.swing.JPanel jPanel33;
-    private javax.swing.JPanel jPanel4;
-    private javax.swing.JPanel jPanel5;
-    private javax.swing.JPanel jPanel6;
-    private javax.swing.JPanel jPanel7;
-    private javax.swing.JPanel jPanel8;
-    private javax.swing.JPanel jPanel9;
-    private javax.swing.JPanel pnlA10;
-    private javax.swing.JPanel pnlA11;
-    private javax.swing.JPanel pnlA12;
-    private javax.swing.JPanel pnlA13;
-    private javax.swing.JPanel pnlA14;
-    private javax.swing.JPanel pnlA15;
-    private javax.swing.JPanel pnlA16;
-    private javax.swing.JPanel pnlA17;
-    private javax.swing.JPanel pnlA18;
-    private javax.swing.JPanel pnlA19;
-    private javax.swing.JPanel pnlA20;
-    private javax.swing.JPanel pnlA21;
-    private javax.swing.JPanel pnlA22;
-    private javax.swing.JPanel pnlA23;
-    private javax.swing.JPanel pnlA24;
-    private javax.swing.JPanel pnlA25;
-    private javax.swing.JPanel pnlA26;
-    private javax.swing.JPanel pnlA27;
-    private javax.swing.JPanel pnlA28;
-    private javax.swing.JPanel pnlA29;
-    private javax.swing.JPanel pnlA30;
-    private javax.swing.JPanel pnlA31;
-    private javax.swing.JPanel pnlA32;
-    private javax.swing.JPanel pnlA33;
-    private javax.swing.JPanel pnlA34;
-    private javax.swing.JPanel pnlA35;
+    private javax.swing.JPanel pnlA1;
+    private javax.swing.JPanel pnlA2;
+    private javax.swing.JPanel pnlA3;
     private javax.swing.JPanel pnlA36;
-    private javax.swing.JPanel pnlA37;
-    private javax.swing.JPanel pnlA38;
-    private javax.swing.JPanel pnlA39;
-    private javax.swing.JPanel pnlA40;
+    private javax.swing.JPanel pnlA4;
+    private javax.swing.JPanel pnlA5;
+    private javax.swing.JPanel pnlA6;
+    private javax.swing.JPanel pnlA7;
     private javax.swing.JPanel pnlA8;
-    private javax.swing.JPanel pnlA9;
+    private javax.swing.JPanel pnlB1;
+    private javax.swing.JPanel pnlB2;
+    private javax.swing.JPanel pnlB3;
+    private javax.swing.JPanel pnlB4;
+    private javax.swing.JPanel pnlB5;
+    private javax.swing.JPanel pnlB6;
+    private javax.swing.JPanel pnlB7;
+    private javax.swing.JPanel pnlB8;
     private javax.swing.JPanel pnlBordeDerecho;
     private javax.swing.JPanel pnlBordeInferior;
     private javax.swing.JPanel pnlBordeIzquierdo;
     private javax.swing.JPanel pnlBordeSuperior;
+    private javax.swing.JPanel pnlC1;
+    private javax.swing.JPanel pnlC2;
+    private javax.swing.JPanel pnlC3;
+    private javax.swing.JPanel pnlC4;
+    private javax.swing.JPanel pnlC5;
+    private javax.swing.JPanel pnlC6;
+    private javax.swing.JPanel pnlC7;
+    private javax.swing.JPanel pnlC8;
+    private javax.swing.JPanel pnlD1;
+    private javax.swing.JPanel pnlD2;
+    private javax.swing.JPanel pnlD3;
+    private javax.swing.JPanel pnlD4;
+    private javax.swing.JPanel pnlD5;
+    private javax.swing.JPanel pnlD6;
+    private javax.swing.JPanel pnlD7;
+    private javax.swing.JPanel pnlD8;
+    private javax.swing.JPanel pnlE1;
+    private javax.swing.JPanel pnlE2;
+    private javax.swing.JPanel pnlE3;
+    private javax.swing.JPanel pnlE4;
+    private javax.swing.JPanel pnlE5;
+    private javax.swing.JPanel pnlE6;
+    private javax.swing.JPanel pnlE7;
+    private javax.swing.JPanel pnlE8;
+    private javax.swing.JPanel pnlF1;
+    private javax.swing.JPanel pnlF2;
+    private javax.swing.JPanel pnlF3;
+    private javax.swing.JPanel pnlF4;
+    private javax.swing.JPanel pnlF5;
+    private javax.swing.JPanel pnlF6;
+    private javax.swing.JPanel pnlF7;
+    private javax.swing.JPanel pnlF8;
     private javax.swing.JPanel pnlFondoTablero;
+    private javax.swing.JPanel pnlG1;
+    private javax.swing.JPanel pnlG2;
+    private javax.swing.JPanel pnlG3;
+    private javax.swing.JPanel pnlG4;
+    private javax.swing.JPanel pnlG5;
+    private javax.swing.JPanel pnlG6;
+    private javax.swing.JPanel pnlG7;
+    private javax.swing.JPanel pnlG8;
+    private javax.swing.JPanel pnlH1;
+    private javax.swing.JPanel pnlH2;
+    private javax.swing.JPanel pnlH3;
+    private javax.swing.JPanel pnlH4;
+    private javax.swing.JPanel pnlH5;
+    private javax.swing.JPanel pnlH6;
+    private javax.swing.JPanel pnlH7;
+    private javax.swing.JPanel pnlH8;
     // End of variables declaration//GEN-END:variables
 }

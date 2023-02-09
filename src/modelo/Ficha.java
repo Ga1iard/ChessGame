@@ -12,4 +12,13 @@ public abstract class Ficha {
     protected String nombreFicha;
     protected int movimientoX;
     protected int movimientoY;
+
+    public Ficha(int movimientoX, int movimientoY) {
+        this.movimientoX = movimientoX;
+        this.movimientoY = movimientoY;
+    }
+    
+    
+    
+    
 }
