@@ -258,9 +258,11 @@ public class PnlRegistroDeJugadores extends javax.swing.JPanel {
         // TODO add your handling code here:
         String nombrePrimerJugador = txtNombrePrimerJugador.getText();
         String colorFichaPrimerJugador = "";
+        int puntuacionPrimerJugador = 0;
         
         String nombreSegundoJugador = txtNombreSegundoJugador.getText();
         String colorFichaSegundoJugador = "";
+        int puntuacionSegundoJugador = 0;
         
         if (rbtBlancasPrimerJugador.isSelected()){
             colorFichaPrimerJugador = rbtBlancasPrimerJugador.getText();
@@ -286,8 +288,8 @@ public class PnlRegistroDeJugadores extends javax.swing.JPanel {
             rbtNegrasPrimerJugador.setSelected(false);
         }
         
-        jugadores[0] = new Jugador(nombrePrimerJugador, colorFichaPrimerJugador);
-        jugadores[1] = new Jugador(nombreSegundoJugador, colorFichaSegundoJugador);
+        jugadores[0] = new Jugador(nombrePrimerJugador, colorFichaPrimerJugador, puntuacionPrimerJugador);
+        jugadores[1] = new Jugador(nombreSegundoJugador, colorFichaSegundoJugador, puntuacionSegundoJugador);
         
     }//GEN-LAST:event_pnlIniciarJuegoMouseClicked
 

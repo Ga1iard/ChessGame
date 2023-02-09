@@ -12,10 +12,12 @@ public class Jugador {
     
     private String nombre;
     private String colorDeFicha;
+    private int puntuacion;
 
-    public Jugador(String nombre, String colorDeFicha) {
+    public Jugador(String nombre, String colorDeFicha, int puntuacion) {
         this.nombre = nombre;
         this.colorDeFicha = colorDeFicha;
+        this.puntuacion = puntuacion;
     }
     
     public String getNombre() {
@@ -33,6 +35,16 @@ public class Jugador {
     public void setColorDeFicha(String colorDeFicha) {
         this.colorDeFicha = colorDeFicha;
     }
+
+    public int getPuntuacion() {
+        return puntuacion;
+    }
+
+    public void setPuntuacion(int puntuacion) {
+        this.puntuacion = puntuacion;
+    }
+
+    
     
     
     
