@@ -15,8 +15,8 @@ import modelo.Jugador;
  */
 public class PnlRegistroDeJugadores extends javax.swing.JPanel {
 
-    Jugador jugadores[] = new Jugador [2];
-    
+    Jugador jugadores[] = new Jugador[2];
+
     public PnlRegistroDeJugadores() {
         initComponents();
     }
@@ -259,38 +259,38 @@ public class PnlRegistroDeJugadores extends javax.swing.JPanel {
         String nombrePrimerJugador = txtNombrePrimerJugador.getText();
         String colorFichaPrimerJugador = "";
         int puntuacionPrimerJugador = 0;
-        
+
         String nombreSegundoJugador = txtNombreSegundoJugador.getText();
         String colorFichaSegundoJugador = "";
         int puntuacionSegundoJugador = 0;
-        
-        if (rbtBlancasPrimerJugador.isSelected()){
+
+        if (rbtBlancasPrimerJugador.isSelected()) {
             colorFichaPrimerJugador = rbtBlancasPrimerJugador.getText();
             rbtNegrasSegundoJugador.setSelected(true);
             rbtBlancasSegundoJugador.setSelected(false);
         }
-        
-        if (rbtNegrasPrimerJugador.isSelected()){
+
+        if (rbtNegrasPrimerJugador.isSelected()) {
             colorFichaPrimerJugador = rbtNegrasPrimerJugador.getText();
             rbtBlancasSegundoJugador.setSelected(true);
             rbtNegrasSegundoJugador.setSelected(false);
         }
-        
-        if (rbtBlancasSegundoJugador.isSelected()){
+
+        if (rbtBlancasSegundoJugador.isSelected()) {
             colorFichaSegundoJugador = rbtBlancasSegundoJugador.getText();
             rbtNegrasPrimerJugador.setSelected(true);
             rbtBlancasPrimerJugador.setSelected(false);
         }
-        
-        if (rbtNegrasSegundoJugador.isSelected()){
+
+        if (rbtNegrasSegundoJugador.isSelected()) {
             colorFichaSegundoJugador = rbtNegrasSegundoJugador.getText();
             rbtBlancasPrimerJugador.setSelected(true);
             rbtNegrasPrimerJugador.setSelected(false);
         }
-        
-        jugadores[0] = new Jugador(nombrePrimerJugador, colorFichaPrimerJugador, puntuacionPrimerJugador);
-        jugadores[1] = new Jugador(nombreSegundoJugador, colorFichaSegundoJugador, puntuacionSegundoJugador);
-        
+
+        jugadores[0] = new Jugador(nombrePrimerJugador, colorFichaPrimerJugador);
+        jugadores[1] = new Jugador(nombreSegundoJugador, colorFichaSegundoJugador);
+
     }//GEN-LAST:event_pnlIniciarJuegoMouseClicked
 
     private void txtNombrePrimerJugadorMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_txtNombrePrimerJugadorMouseClicked
@@ -305,8 +305,7 @@ public class PnlRegistroDeJugadores extends javax.swing.JPanel {
         txtNombreSegundoJugador.setForeground(Color.black);
     }//GEN-LAST:event_txtNombreSegundoJugadorMouseClicked
 
-    
-        
+
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.ButtonGroup btgFichaPrimerJugador;
     private javax.swing.ButtonGroup btgFichaSegundoJugador;

@@ -14,10 +14,10 @@ public class Jugador {
     private String colorDeFicha;
     private int puntuacion;
 
-    public Jugador(String nombre, String colorDeFicha, int puntuacion) {
+    public Jugador(String nombre, String colorDeFicha) {
         this.nombre = nombre;
         this.colorDeFicha = colorDeFicha;
-        this.puntuacion = puntuacion;
+        
     }
     
     public String getNombre() {
