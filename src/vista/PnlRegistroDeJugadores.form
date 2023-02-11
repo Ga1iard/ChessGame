@@ -146,6 +146,9 @@
         </Property>
         <Property name="text" type="java.lang.String" value="Blancas"/>
       </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="rbtBlancasPrimerJugadorActionPerformed"/>
+      </Events>
     </Component>
     <Component class="javax.swing.JRadioButton" name="rbtNegrasPrimerJugador">
       <Properties>
@@ -157,6 +160,9 @@
         </Property>
         <Property name="text" type="java.lang.String" value="Negras"/>
       </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="rbtNegrasPrimerJugadorActionPerformed"/>
+      </Events>
     </Component>
     <Component class="javax.swing.JLabel" name="lblNombrePrimerJugador">
       <Properties>
@@ -228,6 +234,9 @@
         </Property>
         <Property name="text" type="java.lang.String" value="Negras"/>
       </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="rbtNegrasSegundoJugadorActionPerformed"/>
+      </Events>
     </Component>
     <Component class="javax.swing.JSeparator" name="sprNombreSegundoJugador">
     </Component>
@@ -274,6 +283,9 @@
         </Property>
         <Property name="text" type="java.lang.String" value="Blancas"/>
       </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="rbtBlancasSegundoJugadorActionPerformed"/>
+      </Events>
     </Component>
     <Container class="javax.swing.JPanel" name="pnlIniciarJuego">
       <Properties>

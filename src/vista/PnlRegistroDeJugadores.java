@@ -72,10 +72,20 @@ public class PnlRegistroDeJugadores extends javax.swing.JPanel {
         rbtBlancasPrimerJugador.setBackground(new java.awt.Color(255, 255, 255));
         btgFichaPrimerJugador.add(rbtBlancasPrimerJugador);
         rbtBlancasPrimerJugador.setText("Blancas");
+        rbtBlancasPrimerJugador.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                rbtBlancasPrimerJugadorActionPerformed(evt);
+            }
+        });
 
         rbtNegrasPrimerJugador.setBackground(new java.awt.Color(255, 255, 255));
         btgFichaPrimerJugador.add(rbtNegrasPrimerJugador);
         rbtNegrasPrimerJugador.setText("Negras");
+        rbtNegrasPrimerJugador.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                rbtNegrasPrimerJugadorActionPerformed(evt);
+            }
+        });
 
         lblNombrePrimerJugador.setText("Nombre");
 
@@ -113,6 +123,11 @@ public class PnlRegistroDeJugadores extends javax.swing.JPanel {
         rbtNegrasSegundoJugador.setBackground(new java.awt.Color(255, 255, 255));
         btgFichaSegundoJugador.add(rbtNegrasSegundoJugador);
         rbtNegrasSegundoJugador.setText("Negras");
+        rbtNegrasSegundoJugador.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                rbtNegrasSegundoJugadorActionPerformed(evt);
+            }
+        });
 
         txtNombreSegundoJugador.setForeground(new java.awt.Color(153, 153, 153));
         txtNombreSegundoJugador.setText("Ingrese su nombre");
@@ -138,6 +153,11 @@ public class PnlRegistroDeJugadores extends javax.swing.JPanel {
         rbtBlancasSegundoJugador.setBackground(new java.awt.Color(255, 255, 255));
         btgFichaSegundoJugador.add(rbtBlancasSegundoJugador);
         rbtBlancasSegundoJugador.setText("Blancas");
+        rbtBlancasSegundoJugador.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                rbtBlancasSegundoJugadorActionPerformed(evt);
+            }
+        });
 
         pnlIniciarJuego.setBackground(new java.awt.Color(0, 42, 133));
         pnlIniciarJuego.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
@@ -264,30 +284,6 @@ public class PnlRegistroDeJugadores extends javax.swing.JPanel {
         String colorFichaSegundoJugador = "";
         int puntuacionSegundoJugador = 0;
 
-        if (rbtBlancasPrimerJugador.isSelected()) {
-            colorFichaPrimerJugador = rbtBlancasPrimerJugador.getText();
-            rbtNegrasSegundoJugador.setSelected(true);
-            rbtBlancasSegundoJugador.setSelected(false);
-        }
-
-        if (rbtNegrasPrimerJugador.isSelected()) {
-            colorFichaPrimerJugador = rbtNegrasPrimerJugador.getText();
-            rbtBlancasSegundoJugador.setSelected(true);
-            rbtNegrasSegundoJugador.setSelected(false);
-        }
-
-        if (rbtBlancasSegundoJugador.isSelected()) {
-            colorFichaSegundoJugador = rbtBlancasSegundoJugador.getText();
-            rbtNegrasPrimerJugador.setSelected(true);
-            rbtBlancasPrimerJugador.setSelected(false);
-        }
-
-        if (rbtNegrasSegundoJugador.isSelected()) {
-            colorFichaSegundoJugador = rbtNegrasSegundoJugador.getText();
-            rbtBlancasPrimerJugador.setSelected(true);
-            rbtNegrasPrimerJugador.setSelected(false);
-        }
-
         jugadores[0] = new Jugador(nombrePrimerJugador, colorFichaPrimerJugador);
         jugadores[1] = new Jugador(nombreSegundoJugador, colorFichaSegundoJugador);
 
@@ -304,6 +300,23 @@ public class PnlRegistroDeJugadores extends javax.swing.JPanel {
         txtNombreSegundoJugador.setText("");
         txtNombreSegundoJugador.setForeground(Color.black);
     }//GEN-LAST:event_txtNombreSegundoJugadorMouseClicked
+
+    private void rbtBlancasPrimerJugadorActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_rbtBlancasPrimerJugadorActionPerformed
+        rbtNegrasSegundoJugador.setSelected(true);
+    }//GEN-LAST:event_rbtBlancasPrimerJugadorActionPerformed
+
+    private void rbtNegrasPrimerJugadorActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_rbtNegrasPrimerJugadorActionPerformed
+        rbtBlancasSegundoJugador.setSelected(true);
+    }//GEN-LAST:event_rbtNegrasPrimerJugadorActionPerformed
+
+    private void rbtBlancasSegundoJugadorActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_rbtBlancasSegundoJugadorActionPerformed
+        // TODO add your handling code here:
+        rbtNegrasPrimerJugador.setSelected(true);
+    }//GEN-LAST:event_rbtBlancasSegundoJugadorActionPerformed
+
+    private void rbtNegrasSegundoJugadorActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_rbtNegrasSegundoJugadorActionPerformed
+        rbtBlancasPrimerJugador.setSelected(true);
+    }//GEN-LAST:event_rbtNegrasSegundoJugadorActionPerformed
 
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
