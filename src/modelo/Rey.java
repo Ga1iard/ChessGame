@@ -9,9 +9,21 @@ package modelo;
  * @author pc
  */
 public class Rey extends Ficha{
-    
-    public Rey(int movimientoX, int movimientoY) {
-        super(movimientoX, movimientoY);
+
+    public Rey(int movimientoX, int movimientoY, int posicionX, int posicionY) {
+        super(movimientoX, movimientoY, posicionX, posicionY);
     }
+
+    @Override
+    public void moverFichaBlanca() {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
+
+    @Override
+    public void moverFichaNegra() {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
+    
+    
     
 }

@@ -8,18 +8,43 @@ package modelo;
  *
  * @author pc
  */
-public class Peon extends Ficha{
-    
-    public Peon(int movimientoX, int movimientoY) {
-        super(movimientoX, movimientoY);
-        this.movimientoX = 0;
-        this.movimientoY = 1;
+public class Peon extends Ficha {
+
+    public Peon(int movimientoX, int movimientoY, int posicionX, int posicionY) {
+        super(movimientoX, movimientoY, posicionX, posicionY);
+
     }
-/*
+
     @Override
-    public void moverFicha() {
-        
-        
+    public void moverFichaBlanca() {
+
+        this.posicionY = 1;
+        this.movimientoX = 0;
+
+        if (this.posicionY == 1) {
+            this.movimientoY = 2;
+        } else {
+            this.movimientoY = 1;
+        }
+
+        this.posicionY += this.movimientoY;
+
     }
-    */
+
+    @Override
+    public void moverFichaNegra() {
+
+        this.posicionY = 6;
+        this.movimientoX = 0;
+
+        if (this.posicionY == 6) {
+            this.movimientoY = 2;
+        } else {
+            this.movimientoY = 1;
+        }
+
+        this.posicionY -= this.movimientoY;
+
+    }
+
 }
