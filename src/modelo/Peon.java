@@ -18,9 +18,6 @@ public class Peon extends Ficha {
     @Override
     public void moverFichaBlanca() {
 
-        this.posicionY = 1;
-        this.movimientoX = 0;
-
         if (this.posicionY == 1) {
             this.movimientoY = 2;
         } else {
@@ -33,9 +30,6 @@ public class Peon extends Ficha {
 
     @Override
     public void moverFichaNegra() {
-
-        this.posicionY = 6;
-        this.movimientoX = 0;
 
         if (this.posicionY == 6) {
             this.movimientoY = 2;

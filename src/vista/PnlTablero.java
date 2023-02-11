@@ -28,70 +28,134 @@ public class PnlTablero extends javax.swing.JPanel {
 
         pnlFondoTablero = new javax.swing.JPanel();
         pnlA8 = new javax.swing.JPanel();
+        lblA8 = new javax.swing.JLabel();
         pnlA7 = new javax.swing.JPanel();
+        lblA7 = new javax.swing.JLabel();
         pnlB7 = new javax.swing.JPanel();
+        lblB7 = new javax.swing.JLabel();
         pnlB8 = new javax.swing.JPanel();
+        lblB8 = new javax.swing.JLabel();
         pnlC7 = new javax.swing.JPanel();
+        lblC7 = new javax.swing.JLabel();
         pnlB6 = new javax.swing.JPanel();
+        lblB6 = new javax.swing.JLabel();
         pnlC8 = new javax.swing.JPanel();
+        lblC8 = new javax.swing.JLabel();
         pnlA6 = new javax.swing.JPanel();
+        lblA6 = new javax.swing.JLabel();
         pnlB5 = new javax.swing.JPanel();
+        lblB5 = new javax.swing.JLabel();
         pnlD7 = new javax.swing.JPanel();
+        lblD7 = new javax.swing.JLabel();
         pnlC6 = new javax.swing.JPanel();
+        lblC6 = new javax.swing.JLabel();
         pnlD8 = new javax.swing.JPanel();
+        lblD8 = new javax.swing.JLabel();
         pnlD6 = new javax.swing.JPanel();
+        lblD6 = new javax.swing.JLabel();
         pnlC5 = new javax.swing.JPanel();
+        lblC5 = new javax.swing.JLabel();
         pnlA5 = new javax.swing.JPanel();
+        lblA5 = new javax.swing.JLabel();
         pnlB4 = new javax.swing.JPanel();
+        lblB4 = new javax.swing.JLabel();
         pnlE7 = new javax.swing.JPanel();
+        lblE7 = new javax.swing.JLabel();
         pnlE8 = new javax.swing.JPanel();
+        lblE8 = new javax.swing.JLabel();
         pnlE6 = new javax.swing.JPanel();
+        lblE6 = new javax.swing.JLabel();
         pnlF7 = new javax.swing.JPanel();
+        lblF7 = new javax.swing.JLabel();
         pnlD5 = new javax.swing.JPanel();
+        lblD5 = new javax.swing.JLabel();
         pnlC4 = new javax.swing.JPanel();
+        lblC4 = new javax.swing.JLabel();
         pnlA4 = new javax.swing.JPanel();
+        lblA4 = new javax.swing.JLabel();
         pnlB3 = new javax.swing.JPanel();
+        lblB3 = new javax.swing.JLabel();
         pnlA3 = new javax.swing.JPanel();
+        lblA3 = new javax.swing.JLabel();
         pnlB2 = new javax.swing.JPanel();
+        lblB2 = new javax.swing.JLabel();
         pnlC3 = new javax.swing.JPanel();
+        lblC3 = new javax.swing.JLabel();
         pnlD4 = new javax.swing.JPanel();
+        lblD4 = new javax.swing.JLabel();
         pnlE5 = new javax.swing.JPanel();
+        lblE5 = new javax.swing.JLabel();
         pnlF6 = new javax.swing.JPanel();
+        lblF6 = new javax.swing.JLabel();
         pnlF8 = new javax.swing.JPanel();
+        lblF8 = new javax.swing.JLabel();
         pnlG7 = new javax.swing.JPanel();
+        lblG7 = new javax.swing.JLabel();
         pnlG8 = new javax.swing.JPanel();
+        lblG8 = new javax.swing.JLabel();
         pnlH7 = new javax.swing.JPanel();
+        lblH7 = new javax.swing.JLabel();
         pnlG6 = new javax.swing.JPanel();
+        lblG6 = new javax.swing.JLabel();
         pnlF5 = new javax.swing.JPanel();
+        lblF5 = new javax.swing.JLabel();
         pnlE4 = new javax.swing.JPanel();
+        lblE4 = new javax.swing.JLabel();
         pnlD3 = new javax.swing.JPanel();
+        lblD3 = new javax.swing.JLabel();
         pnlC2 = new javax.swing.JPanel();
+        lblC2 = new javax.swing.JLabel();
         pnlB1 = new javax.swing.JPanel();
+        lblB1 = new javax.swing.JLabel();
         pnlA2 = new javax.swing.JPanel();
+        lblA2 = new javax.swing.JLabel();
         pnlH8 = new javax.swing.JPanel();
+        lblH8 = new javax.swing.JLabel();
         pnlH6 = new javax.swing.JPanel();
+        lblH6 = new javax.swing.JLabel();
         pnlG5 = new javax.swing.JPanel();
+        lblG5 = new javax.swing.JLabel();
         pnlF4 = new javax.swing.JPanel();
+        lblF4 = new javax.swing.JLabel();
         pnlE3 = new javax.swing.JPanel();
+        lblE3 = new javax.swing.JLabel();
         pnlD2 = new javax.swing.JPanel();
+        lblD2 = new javax.swing.JLabel();
         pnlC1 = new javax.swing.JPanel();
+        lblC1 = new javax.swing.JLabel();
         pnlA1 = new javax.swing.JPanel();
+        lblA1 = new javax.swing.JLabel();
         pnlD1 = new javax.swing.JPanel();
+        lblD1 = new javax.swing.JLabel();
         pnlE2 = new javax.swing.JPanel();
+        lblE2 = new javax.swing.JLabel();
         pnlF3 = new javax.swing.JPanel();
+        lblF3 = new javax.swing.JLabel();
         pnlG4 = new javax.swing.JPanel();
+        lblG4 = new javax.swing.JLabel();
         pnlH5 = new javax.swing.JPanel();
+        lblH5 = new javax.swing.JLabel();
         pnlA36 = new javax.swing.JPanel();
         pnlH1 = new javax.swing.JPanel();
+        lblH1 = new javax.swing.JLabel();
         pnlH2 = new javax.swing.JPanel();
+        lblH2 = new javax.swing.JLabel();
         pnlH4 = new javax.swing.JPanel();
+        lblH4 = new javax.swing.JLabel();
         pnlG3 = new javax.swing.JPanel();
+        lblG3 = new javax.swing.JLabel();
         pnlF2 = new javax.swing.JPanel();
+        lblF2 = new javax.swing.JLabel();
         pnlE1 = new javax.swing.JPanel();
+        lblE1 = new javax.swing.JLabel();
         pnlG1 = new javax.swing.JPanel();
+        lblG1 = new javax.swing.JLabel();
         pnlG2 = new javax.swing.JPanel();
+        lblG2 = new javax.swing.JLabel();
         pnlH3 = new javax.swing.JPanel();
+        lblH3 = new javax.swing.JLabel();
         pnlF1 = new javax.swing.JPanel();
+        lblF1 = new javax.swing.JLabel();
         pnlBordeIzquierdo = new javax.swing.JPanel();
         pnlBordeSuperior = new javax.swing.JPanel();
         pnlBordeDerecho = new javax.swing.JPanel();
@@ -102,788 +166,322 @@ public class PnlTablero extends javax.swing.JPanel {
         pnlFondoTablero.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
         pnlA8.setBackground(new java.awt.Color(255, 255, 255));
+
+        lblA8.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/TorreBlanca.png"))); // NOI18N
+        pnlA8.add(lblA8);
+
         pnlFondoTablero.add(pnlA8, new org.netbeans.lib.awtextra.AbsoluteConstraints(490, 490, 70, 70));
 
         pnlA7.setBackground(new java.awt.Color(126, 162, 214));
 
-        javax.swing.GroupLayout pnlA7Layout = new javax.swing.GroupLayout(pnlA7);
-        pnlA7.setLayout(pnlA7Layout);
-        pnlA7Layout.setHorizontalGroup(
-            pnlA7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlA7Layout.setVerticalGroup(
-            pnlA7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        lblA7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/CaballoBlanco.png"))); // NOI18N
+        pnlA7.add(lblA7);
 
         pnlFondoTablero.add(pnlA7, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 490, 70, 70));
 
         pnlB7.setBackground(new java.awt.Color(255, 255, 255));
+
+        lblB7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/PeónBlanco.png"))); // NOI18N
+        pnlB7.add(lblB7);
+
         pnlFondoTablero.add(pnlB7, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 420, 70, 70));
 
         pnlB8.setBackground(new java.awt.Color(126, 162, 214));
 
-        javax.swing.GroupLayout pnlB8Layout = new javax.swing.GroupLayout(pnlB8);
-        pnlB8.setLayout(pnlB8Layout);
-        pnlB8Layout.setHorizontalGroup(
-            pnlB8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlB8Layout.setVerticalGroup(
-            pnlB8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        lblB8.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/PeónBlanco.png"))); // NOI18N
+        pnlB8.add(lblB8);
 
         pnlFondoTablero.add(pnlB8, new org.netbeans.lib.awtextra.AbsoluteConstraints(490, 420, 70, 70));
 
         pnlC7.setBackground(new java.awt.Color(126, 162, 214));
-
-        javax.swing.GroupLayout pnlC7Layout = new javax.swing.GroupLayout(pnlC7);
-        pnlC7.setLayout(pnlC7Layout);
-        pnlC7Layout.setHorizontalGroup(
-            pnlC7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlC7Layout.setVerticalGroup(
-            pnlC7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        pnlC7.add(lblC7);
 
         pnlFondoTablero.add(pnlC7, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 350, 70, 70));
 
         pnlB6.setBackground(new java.awt.Color(126, 162, 214));
 
-        javax.swing.GroupLayout pnlB6Layout = new javax.swing.GroupLayout(pnlB6);
-        pnlB6.setLayout(pnlB6Layout);
-        pnlB6Layout.setHorizontalGroup(
-            pnlB6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlB6Layout.setVerticalGroup(
-            pnlB6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        lblB6.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/PeónBlanco.png"))); // NOI18N
+        pnlB6.add(lblB6);
 
         pnlFondoTablero.add(pnlB6, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 420, 70, 70));
 
         pnlC8.setBackground(new java.awt.Color(255, 255, 255));
-
-        javax.swing.GroupLayout pnlC8Layout = new javax.swing.GroupLayout(pnlC8);
-        pnlC8.setLayout(pnlC8Layout);
-        pnlC8Layout.setHorizontalGroup(
-            pnlC8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlC8Layout.setVerticalGroup(
-            pnlC8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        pnlC8.add(lblC8);
 
         pnlFondoTablero.add(pnlC8, new org.netbeans.lib.awtextra.AbsoluteConstraints(490, 350, 70, 70));
 
         pnlA6.setBackground(new java.awt.Color(255, 255, 255));
 
-        javax.swing.GroupLayout pnlA6Layout = new javax.swing.GroupLayout(pnlA6);
-        pnlA6.setLayout(pnlA6Layout);
-        pnlA6Layout.setHorizontalGroup(
-            pnlA6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlA6Layout.setVerticalGroup(
-            pnlA6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        lblA6.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/AlfilBlanco.png"))); // NOI18N
+        pnlA6.add(lblA6);
 
         pnlFondoTablero.add(pnlA6, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 490, 70, 70));
 
         pnlB5.setBackground(new java.awt.Color(255, 255, 255));
 
-        javax.swing.GroupLayout pnlB5Layout = new javax.swing.GroupLayout(pnlB5);
-        pnlB5.setLayout(pnlB5Layout);
-        pnlB5Layout.setHorizontalGroup(
-            pnlB5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlB5Layout.setVerticalGroup(
-            pnlB5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        lblB5.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/PeónBlanco.png"))); // NOI18N
+        pnlB5.add(lblB5);
 
         pnlFondoTablero.add(pnlB5, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 420, 70, 70));
 
         pnlD7.setBackground(new java.awt.Color(255, 255, 255));
-
-        javax.swing.GroupLayout pnlD7Layout = new javax.swing.GroupLayout(pnlD7);
-        pnlD7.setLayout(pnlD7Layout);
-        pnlD7Layout.setHorizontalGroup(
-            pnlD7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlD7Layout.setVerticalGroup(
-            pnlD7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        pnlD7.add(lblD7);
 
         pnlFondoTablero.add(pnlD7, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 280, 70, 70));
 
         pnlC6.setBackground(new java.awt.Color(255, 255, 255));
-
-        javax.swing.GroupLayout pnlC6Layout = new javax.swing.GroupLayout(pnlC6);
-        pnlC6.setLayout(pnlC6Layout);
-        pnlC6Layout.setHorizontalGroup(
-            pnlC6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlC6Layout.setVerticalGroup(
-            pnlC6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        pnlC6.add(lblC6);
 
         pnlFondoTablero.add(pnlC6, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 350, 70, 70));
 
         pnlD8.setBackground(new java.awt.Color(126, 162, 214));
-
-        javax.swing.GroupLayout pnlD8Layout = new javax.swing.GroupLayout(pnlD8);
-        pnlD8.setLayout(pnlD8Layout);
-        pnlD8Layout.setHorizontalGroup(
-            pnlD8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlD8Layout.setVerticalGroup(
-            pnlD8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        pnlD8.add(lblD8);
 
         pnlFondoTablero.add(pnlD8, new org.netbeans.lib.awtextra.AbsoluteConstraints(490, 280, 70, 70));
 
         pnlD6.setBackground(new java.awt.Color(126, 162, 214));
-
-        javax.swing.GroupLayout pnlD6Layout = new javax.swing.GroupLayout(pnlD6);
-        pnlD6.setLayout(pnlD6Layout);
-        pnlD6Layout.setHorizontalGroup(
-            pnlD6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlD6Layout.setVerticalGroup(
-            pnlD6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        pnlD6.add(lblD6);
 
         pnlFondoTablero.add(pnlD6, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 280, 70, 70));
 
         pnlC5.setBackground(new java.awt.Color(126, 162, 214));
-
-        javax.swing.GroupLayout pnlC5Layout = new javax.swing.GroupLayout(pnlC5);
-        pnlC5.setLayout(pnlC5Layout);
-        pnlC5Layout.setHorizontalGroup(
-            pnlC5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlC5Layout.setVerticalGroup(
-            pnlC5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        pnlC5.add(lblC5);
 
         pnlFondoTablero.add(pnlC5, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 350, 70, 70));
 
         pnlA5.setBackground(new java.awt.Color(126, 162, 214));
 
-        javax.swing.GroupLayout pnlA5Layout = new javax.swing.GroupLayout(pnlA5);
-        pnlA5.setLayout(pnlA5Layout);
-        pnlA5Layout.setHorizontalGroup(
-            pnlA5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlA5Layout.setVerticalGroup(
-            pnlA5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        lblA5.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/ReyBlanco.png"))); // NOI18N
+        pnlA5.add(lblA5);
 
         pnlFondoTablero.add(pnlA5, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 490, 70, 70));
 
         pnlB4.setBackground(new java.awt.Color(126, 162, 214));
 
-        javax.swing.GroupLayout pnlB4Layout = new javax.swing.GroupLayout(pnlB4);
-        pnlB4.setLayout(pnlB4Layout);
-        pnlB4Layout.setHorizontalGroup(
-            pnlB4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlB4Layout.setVerticalGroup(
-            pnlB4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        lblB4.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/PeónBlanco.png"))); // NOI18N
+        pnlB4.add(lblB4);
 
         pnlFondoTablero.add(pnlB4, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 420, 70, 70));
 
         pnlE7.setBackground(new java.awt.Color(126, 162, 214));
-
-        javax.swing.GroupLayout pnlE7Layout = new javax.swing.GroupLayout(pnlE7);
-        pnlE7.setLayout(pnlE7Layout);
-        pnlE7Layout.setHorizontalGroup(
-            pnlE7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlE7Layout.setVerticalGroup(
-            pnlE7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        pnlE7.add(lblE7);
 
         pnlFondoTablero.add(pnlE7, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 210, 70, 70));
 
         pnlE8.setBackground(new java.awt.Color(255, 255, 255));
-
-        javax.swing.GroupLayout pnlE8Layout = new javax.swing.GroupLayout(pnlE8);
-        pnlE8.setLayout(pnlE8Layout);
-        pnlE8Layout.setHorizontalGroup(
-            pnlE8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlE8Layout.setVerticalGroup(
-            pnlE8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        pnlE8.add(lblE8);
 
         pnlFondoTablero.add(pnlE8, new org.netbeans.lib.awtextra.AbsoluteConstraints(490, 210, 70, 70));
 
         pnlE6.setBackground(new java.awt.Color(255, 255, 255));
-
-        javax.swing.GroupLayout pnlE6Layout = new javax.swing.GroupLayout(pnlE6);
-        pnlE6.setLayout(pnlE6Layout);
-        pnlE6Layout.setHorizontalGroup(
-            pnlE6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlE6Layout.setVerticalGroup(
-            pnlE6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        pnlE6.add(lblE6);
 
         pnlFondoTablero.add(pnlE6, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 210, 70, 70));
 
         pnlF7.setBackground(new java.awt.Color(255, 255, 255));
-
-        javax.swing.GroupLayout pnlF7Layout = new javax.swing.GroupLayout(pnlF7);
-        pnlF7.setLayout(pnlF7Layout);
-        pnlF7Layout.setHorizontalGroup(
-            pnlF7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlF7Layout.setVerticalGroup(
-            pnlF7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        pnlF7.add(lblF7);
 
         pnlFondoTablero.add(pnlF7, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 140, 70, 70));
 
         pnlD5.setBackground(new java.awt.Color(255, 255, 255));
-
-        javax.swing.GroupLayout pnlD5Layout = new javax.swing.GroupLayout(pnlD5);
-        pnlD5.setLayout(pnlD5Layout);
-        pnlD5Layout.setHorizontalGroup(
-            pnlD5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlD5Layout.setVerticalGroup(
-            pnlD5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        pnlD5.add(lblD5);
 
         pnlFondoTablero.add(pnlD5, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 280, 70, 70));
 
         pnlC4.setBackground(new java.awt.Color(255, 255, 255));
-
-        javax.swing.GroupLayout pnlC4Layout = new javax.swing.GroupLayout(pnlC4);
-        pnlC4.setLayout(pnlC4Layout);
-        pnlC4Layout.setHorizontalGroup(
-            pnlC4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlC4Layout.setVerticalGroup(
-            pnlC4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        pnlC4.add(lblC4);
 
         pnlFondoTablero.add(pnlC4, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 350, 70, 70));
 
         pnlA4.setBackground(new java.awt.Color(255, 255, 255));
 
-        javax.swing.GroupLayout pnlA4Layout = new javax.swing.GroupLayout(pnlA4);
-        pnlA4.setLayout(pnlA4Layout);
-        pnlA4Layout.setHorizontalGroup(
-            pnlA4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlA4Layout.setVerticalGroup(
-            pnlA4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        lblA4.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/DamaBlanca.png"))); // NOI18N
+        pnlA4.add(lblA4);
 
         pnlFondoTablero.add(pnlA4, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 490, 70, 70));
 
         pnlB3.setBackground(new java.awt.Color(255, 255, 255));
 
-        javax.swing.GroupLayout pnlB3Layout = new javax.swing.GroupLayout(pnlB3);
-        pnlB3.setLayout(pnlB3Layout);
-        pnlB3Layout.setHorizontalGroup(
-            pnlB3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlB3Layout.setVerticalGroup(
-            pnlB3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        lblB3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/PeónBlanco.png"))); // NOI18N
+        pnlB3.add(lblB3);
 
         pnlFondoTablero.add(pnlB3, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 420, 70, 70));
 
         pnlA3.setBackground(new java.awt.Color(126, 162, 214));
 
-        javax.swing.GroupLayout pnlA3Layout = new javax.swing.GroupLayout(pnlA3);
-        pnlA3.setLayout(pnlA3Layout);
-        pnlA3Layout.setHorizontalGroup(
-            pnlA3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlA3Layout.setVerticalGroup(
-            pnlA3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        lblA3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/AlfilBlanco.png"))); // NOI18N
+        pnlA3.add(lblA3);
 
         pnlFondoTablero.add(pnlA3, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 490, 70, 70));
 
         pnlB2.setBackground(new java.awt.Color(126, 162, 214));
 
-        javax.swing.GroupLayout pnlB2Layout = new javax.swing.GroupLayout(pnlB2);
-        pnlB2.setLayout(pnlB2Layout);
-        pnlB2Layout.setHorizontalGroup(
-            pnlB2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlB2Layout.setVerticalGroup(
-            pnlB2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        lblB2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/PeónBlanco.png"))); // NOI18N
+        pnlB2.add(lblB2);
 
         pnlFondoTablero.add(pnlB2, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 420, 70, 70));
 
         pnlC3.setBackground(new java.awt.Color(126, 162, 214));
-
-        javax.swing.GroupLayout pnlC3Layout = new javax.swing.GroupLayout(pnlC3);
-        pnlC3.setLayout(pnlC3Layout);
-        pnlC3Layout.setHorizontalGroup(
-            pnlC3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlC3Layout.setVerticalGroup(
-            pnlC3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        pnlC3.add(lblC3);
 
         pnlFondoTablero.add(pnlC3, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 350, 70, 70));
 
         pnlD4.setBackground(new java.awt.Color(126, 162, 214));
-
-        javax.swing.GroupLayout pnlD4Layout = new javax.swing.GroupLayout(pnlD4);
-        pnlD4.setLayout(pnlD4Layout);
-        pnlD4Layout.setHorizontalGroup(
-            pnlD4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlD4Layout.setVerticalGroup(
-            pnlD4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        pnlD4.add(lblD4);
 
         pnlFondoTablero.add(pnlD4, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 280, 70, 70));
 
         pnlE5.setBackground(new java.awt.Color(126, 162, 214));
-
-        javax.swing.GroupLayout pnlE5Layout = new javax.swing.GroupLayout(pnlE5);
-        pnlE5.setLayout(pnlE5Layout);
-        pnlE5Layout.setHorizontalGroup(
-            pnlE5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlE5Layout.setVerticalGroup(
-            pnlE5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        pnlE5.add(lblE5);
 
         pnlFondoTablero.add(pnlE5, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 210, 70, 70));
 
         pnlF6.setBackground(new java.awt.Color(126, 162, 214));
-
-        javax.swing.GroupLayout pnlF6Layout = new javax.swing.GroupLayout(pnlF6);
-        pnlF6.setLayout(pnlF6Layout);
-        pnlF6Layout.setHorizontalGroup(
-            pnlF6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlF6Layout.setVerticalGroup(
-            pnlF6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        pnlF6.add(lblF6);
 
         pnlFondoTablero.add(pnlF6, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 140, 70, 70));
 
         pnlF8.setBackground(new java.awt.Color(126, 162, 214));
-
-        javax.swing.GroupLayout pnlF8Layout = new javax.swing.GroupLayout(pnlF8);
-        pnlF8.setLayout(pnlF8Layout);
-        pnlF8Layout.setHorizontalGroup(
-            pnlF8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlF8Layout.setVerticalGroup(
-            pnlF8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        pnlF8.add(lblF8);
 
         pnlFondoTablero.add(pnlF8, new org.netbeans.lib.awtextra.AbsoluteConstraints(490, 140, 70, 70));
 
         pnlG7.setBackground(new java.awt.Color(126, 162, 214));
 
-        javax.swing.GroupLayout pnlG7Layout = new javax.swing.GroupLayout(pnlG7);
-        pnlG7.setLayout(pnlG7Layout);
-        pnlG7Layout.setHorizontalGroup(
-            pnlG7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlG7Layout.setVerticalGroup(
-            pnlG7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        lblG7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/PeónNegro.png"))); // NOI18N
+        pnlG7.add(lblG7);
 
         pnlFondoTablero.add(pnlG7, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 70, 70, 70));
 
         pnlG8.setBackground(new java.awt.Color(255, 255, 255));
 
-        javax.swing.GroupLayout pnlG8Layout = new javax.swing.GroupLayout(pnlG8);
-        pnlG8.setLayout(pnlG8Layout);
-        pnlG8Layout.setHorizontalGroup(
-            pnlG8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlG8Layout.setVerticalGroup(
-            pnlG8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        lblG8.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/PeónNegro.png"))); // NOI18N
+        pnlG8.add(lblG8);
 
         pnlFondoTablero.add(pnlG8, new org.netbeans.lib.awtextra.AbsoluteConstraints(490, 70, 70, 70));
 
         pnlH7.setBackground(new java.awt.Color(255, 255, 255));
 
-        javax.swing.GroupLayout pnlH7Layout = new javax.swing.GroupLayout(pnlH7);
-        pnlH7.setLayout(pnlH7Layout);
-        pnlH7Layout.setHorizontalGroup(
-            pnlH7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlH7Layout.setVerticalGroup(
-            pnlH7Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        lblH7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/CaballoNegro.png"))); // NOI18N
+        pnlH7.add(lblH7);
 
         pnlFondoTablero.add(pnlH7, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 0, 70, 70));
 
         pnlG6.setBackground(new java.awt.Color(255, 255, 255));
 
-        javax.swing.GroupLayout pnlG6Layout = new javax.swing.GroupLayout(pnlG6);
-        pnlG6.setLayout(pnlG6Layout);
-        pnlG6Layout.setHorizontalGroup(
-            pnlG6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlG6Layout.setVerticalGroup(
-            pnlG6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        lblG6.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/PeónNegro.png"))); // NOI18N
+        pnlG6.add(lblG6);
 
         pnlFondoTablero.add(pnlG6, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 70, 70, 70));
 
         pnlF5.setBackground(new java.awt.Color(255, 255, 255));
-
-        javax.swing.GroupLayout pnlF5Layout = new javax.swing.GroupLayout(pnlF5);
-        pnlF5.setLayout(pnlF5Layout);
-        pnlF5Layout.setHorizontalGroup(
-            pnlF5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlF5Layout.setVerticalGroup(
-            pnlF5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        pnlF5.add(lblF5);
 
         pnlFondoTablero.add(pnlF5, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 140, 70, 70));
 
         pnlE4.setBackground(new java.awt.Color(255, 255, 255));
-
-        javax.swing.GroupLayout pnlE4Layout = new javax.swing.GroupLayout(pnlE4);
-        pnlE4.setLayout(pnlE4Layout);
-        pnlE4Layout.setHorizontalGroup(
-            pnlE4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlE4Layout.setVerticalGroup(
-            pnlE4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        pnlE4.add(lblE4);
 
         pnlFondoTablero.add(pnlE4, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 210, 70, 70));
 
         pnlD3.setBackground(new java.awt.Color(255, 255, 255));
-
-        javax.swing.GroupLayout pnlD3Layout = new javax.swing.GroupLayout(pnlD3);
-        pnlD3.setLayout(pnlD3Layout);
-        pnlD3Layout.setHorizontalGroup(
-            pnlD3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlD3Layout.setVerticalGroup(
-            pnlD3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        pnlD3.add(lblD3);
 
         pnlFondoTablero.add(pnlD3, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 280, 70, 70));
 
         pnlC2.setBackground(new java.awt.Color(255, 255, 255));
-
-        javax.swing.GroupLayout pnlC2Layout = new javax.swing.GroupLayout(pnlC2);
-        pnlC2.setLayout(pnlC2Layout);
-        pnlC2Layout.setHorizontalGroup(
-            pnlC2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlC2Layout.setVerticalGroup(
-            pnlC2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        pnlC2.add(lblC2);
 
         pnlFondoTablero.add(pnlC2, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 350, 70, 70));
 
         pnlB1.setBackground(new java.awt.Color(255, 255, 255));
 
-        javax.swing.GroupLayout pnlB1Layout = new javax.swing.GroupLayout(pnlB1);
-        pnlB1.setLayout(pnlB1Layout);
-        pnlB1Layout.setHorizontalGroup(
-            pnlB1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlB1Layout.setVerticalGroup(
-            pnlB1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        lblB1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/PeónBlanco.png"))); // NOI18N
+        pnlB1.add(lblB1);
 
         pnlFondoTablero.add(pnlB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 420, 70, 70));
 
         pnlA2.setBackground(new java.awt.Color(255, 255, 255));
 
-        javax.swing.GroupLayout pnlA2Layout = new javax.swing.GroupLayout(pnlA2);
-        pnlA2.setLayout(pnlA2Layout);
-        pnlA2Layout.setHorizontalGroup(
-            pnlA2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlA2Layout.setVerticalGroup(
-            pnlA2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        lblA2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/CaballoBlanco.png"))); // NOI18N
+        pnlA2.add(lblA2);
 
         pnlFondoTablero.add(pnlA2, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 490, 70, 70));
 
         pnlH8.setBackground(new java.awt.Color(126, 162, 214));
 
-        javax.swing.GroupLayout pnlH8Layout = new javax.swing.GroupLayout(pnlH8);
-        pnlH8.setLayout(pnlH8Layout);
-        pnlH8Layout.setHorizontalGroup(
-            pnlH8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlH8Layout.setVerticalGroup(
-            pnlH8Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        lblH8.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/TorreNegra.png"))); // NOI18N
+        pnlH8.add(lblH8);
 
         pnlFondoTablero.add(pnlH8, new org.netbeans.lib.awtextra.AbsoluteConstraints(490, 0, 70, 70));
 
         pnlH6.setBackground(new java.awt.Color(126, 162, 214));
 
-        javax.swing.GroupLayout pnlH6Layout = new javax.swing.GroupLayout(pnlH6);
-        pnlH6.setLayout(pnlH6Layout);
-        pnlH6Layout.setHorizontalGroup(
-            pnlH6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlH6Layout.setVerticalGroup(
-            pnlH6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        lblH6.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/AlfilNegro.png"))); // NOI18N
+        pnlH6.add(lblH6);
 
         pnlFondoTablero.add(pnlH6, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 0, 70, 70));
 
         pnlG5.setBackground(new java.awt.Color(126, 162, 214));
 
-        javax.swing.GroupLayout pnlG5Layout = new javax.swing.GroupLayout(pnlG5);
-        pnlG5.setLayout(pnlG5Layout);
-        pnlG5Layout.setHorizontalGroup(
-            pnlG5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlG5Layout.setVerticalGroup(
-            pnlG5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        lblG5.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/PeónNegro.png"))); // NOI18N
+        pnlG5.add(lblG5);
 
         pnlFondoTablero.add(pnlG5, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 70, 70, 70));
 
         pnlF4.setBackground(new java.awt.Color(126, 162, 214));
-
-        javax.swing.GroupLayout pnlF4Layout = new javax.swing.GroupLayout(pnlF4);
-        pnlF4.setLayout(pnlF4Layout);
-        pnlF4Layout.setHorizontalGroup(
-            pnlF4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlF4Layout.setVerticalGroup(
-            pnlF4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        pnlF4.add(lblF4);
 
         pnlFondoTablero.add(pnlF4, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 140, 70, 70));
 
         pnlE3.setBackground(new java.awt.Color(126, 162, 214));
-
-        javax.swing.GroupLayout pnlE3Layout = new javax.swing.GroupLayout(pnlE3);
-        pnlE3.setLayout(pnlE3Layout);
-        pnlE3Layout.setHorizontalGroup(
-            pnlE3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlE3Layout.setVerticalGroup(
-            pnlE3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        pnlE3.add(lblE3);
 
         pnlFondoTablero.add(pnlE3, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 210, 70, 70));
 
         pnlD2.setBackground(new java.awt.Color(126, 162, 214));
-
-        javax.swing.GroupLayout pnlD2Layout = new javax.swing.GroupLayout(pnlD2);
-        pnlD2.setLayout(pnlD2Layout);
-        pnlD2Layout.setHorizontalGroup(
-            pnlD2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlD2Layout.setVerticalGroup(
-            pnlD2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        pnlD2.add(lblD2);
 
         pnlFondoTablero.add(pnlD2, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 280, 70, 70));
 
         pnlC1.setBackground(new java.awt.Color(126, 162, 214));
-
-        javax.swing.GroupLayout pnlC1Layout = new javax.swing.GroupLayout(pnlC1);
-        pnlC1.setLayout(pnlC1Layout);
-        pnlC1Layout.setHorizontalGroup(
-            pnlC1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlC1Layout.setVerticalGroup(
-            pnlC1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        pnlC1.add(lblC1);
 
         pnlFondoTablero.add(pnlC1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 350, 70, 70));
 
         pnlA1.setBackground(new java.awt.Color(126, 162, 214));
 
-        javax.swing.GroupLayout pnlA1Layout = new javax.swing.GroupLayout(pnlA1);
-        pnlA1.setLayout(pnlA1Layout);
-        pnlA1Layout.setHorizontalGroup(
-            pnlA1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlA1Layout.setVerticalGroup(
-            pnlA1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        lblA1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/TorreBlanca.png"))); // NOI18N
+        pnlA1.add(lblA1);
 
         pnlFondoTablero.add(pnlA1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 490, 70, 70));
 
         pnlD1.setBackground(new java.awt.Color(255, 255, 255));
-
-        javax.swing.GroupLayout pnlD1Layout = new javax.swing.GroupLayout(pnlD1);
-        pnlD1.setLayout(pnlD1Layout);
-        pnlD1Layout.setHorizontalGroup(
-            pnlD1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlD1Layout.setVerticalGroup(
-            pnlD1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        pnlD1.add(lblD1);
 
         pnlFondoTablero.add(pnlD1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 280, 70, 70));
 
         pnlE2.setBackground(new java.awt.Color(255, 255, 255));
-
-        javax.swing.GroupLayout pnlE2Layout = new javax.swing.GroupLayout(pnlE2);
-        pnlE2.setLayout(pnlE2Layout);
-        pnlE2Layout.setHorizontalGroup(
-            pnlE2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlE2Layout.setVerticalGroup(
-            pnlE2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        pnlE2.add(lblE2);
 
         pnlFondoTablero.add(pnlE2, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 210, 70, 70));
 
         pnlF3.setBackground(new java.awt.Color(255, 255, 255));
-
-        javax.swing.GroupLayout pnlF3Layout = new javax.swing.GroupLayout(pnlF3);
-        pnlF3.setLayout(pnlF3Layout);
-        pnlF3Layout.setHorizontalGroup(
-            pnlF3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlF3Layout.setVerticalGroup(
-            pnlF3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        pnlF3.add(lblF3);
 
         pnlFondoTablero.add(pnlF3, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 140, 70, 70));
 
         pnlG4.setBackground(new java.awt.Color(255, 255, 255));
 
-        javax.swing.GroupLayout pnlG4Layout = new javax.swing.GroupLayout(pnlG4);
-        pnlG4.setLayout(pnlG4Layout);
-        pnlG4Layout.setHorizontalGroup(
-            pnlG4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlG4Layout.setVerticalGroup(
-            pnlG4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        lblG4.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/PeónNegro.png"))); // NOI18N
+        pnlG4.add(lblG4);
 
         pnlFondoTablero.add(pnlG4, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 70, 70, 70));
 
         pnlH5.setBackground(new java.awt.Color(255, 255, 255));
 
-        javax.swing.GroupLayout pnlH5Layout = new javax.swing.GroupLayout(pnlH5);
-        pnlH5.setLayout(pnlH5Layout);
-        pnlH5Layout.setHorizontalGroup(
-            pnlH5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlH5Layout.setVerticalGroup(
-            pnlH5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        lblH5.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/ReyNegro.png"))); // NOI18N
+        pnlH5.add(lblH5);
 
         pnlFondoTablero.add(pnlH5, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 0, 70, 70));
 
@@ -904,151 +502,65 @@ public class PnlTablero extends javax.swing.JPanel {
 
         pnlH1.setBackground(new java.awt.Color(255, 255, 255));
 
-        javax.swing.GroupLayout pnlH1Layout = new javax.swing.GroupLayout(pnlH1);
-        pnlH1.setLayout(pnlH1Layout);
-        pnlH1Layout.setHorizontalGroup(
-            pnlH1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlH1Layout.setVerticalGroup(
-            pnlH1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        lblH1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/TorreNegra.png"))); // NOI18N
+        pnlH1.add(lblH1);
 
         pnlFondoTablero.add(pnlH1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 70, 70));
 
         pnlH2.setBackground(new java.awt.Color(126, 162, 214));
 
-        javax.swing.GroupLayout pnlH2Layout = new javax.swing.GroupLayout(pnlH2);
-        pnlH2.setLayout(pnlH2Layout);
-        pnlH2Layout.setHorizontalGroup(
-            pnlH2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlH2Layout.setVerticalGroup(
-            pnlH2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        lblH2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/CaballoNegro.png"))); // NOI18N
+        pnlH2.add(lblH2);
 
         pnlFondoTablero.add(pnlH2, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 0, 70, 70));
 
         pnlH4.setBackground(new java.awt.Color(126, 162, 214));
 
-        javax.swing.GroupLayout pnlH4Layout = new javax.swing.GroupLayout(pnlH4);
-        pnlH4.setLayout(pnlH4Layout);
-        pnlH4Layout.setHorizontalGroup(
-            pnlH4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlH4Layout.setVerticalGroup(
-            pnlH4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        lblH4.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/DamaNegra.png"))); // NOI18N
+        pnlH4.add(lblH4);
 
         pnlFondoTablero.add(pnlH4, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 0, 70, 70));
 
         pnlG3.setBackground(new java.awt.Color(126, 162, 214));
 
-        javax.swing.GroupLayout pnlG3Layout = new javax.swing.GroupLayout(pnlG3);
-        pnlG3.setLayout(pnlG3Layout);
-        pnlG3Layout.setHorizontalGroup(
-            pnlG3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlG3Layout.setVerticalGroup(
-            pnlG3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        lblG3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/PeónNegro.png"))); // NOI18N
+        pnlG3.add(lblG3);
 
         pnlFondoTablero.add(pnlG3, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 70, 70, 70));
 
         pnlF2.setBackground(new java.awt.Color(126, 162, 214));
-
-        javax.swing.GroupLayout pnlF2Layout = new javax.swing.GroupLayout(pnlF2);
-        pnlF2.setLayout(pnlF2Layout);
-        pnlF2Layout.setHorizontalGroup(
-            pnlF2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlF2Layout.setVerticalGroup(
-            pnlF2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        pnlF2.add(lblF2);
 
         pnlFondoTablero.add(pnlF2, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 140, 70, 70));
 
         pnlE1.setBackground(new java.awt.Color(126, 162, 214));
-
-        javax.swing.GroupLayout pnlE1Layout = new javax.swing.GroupLayout(pnlE1);
-        pnlE1.setLayout(pnlE1Layout);
-        pnlE1Layout.setHorizontalGroup(
-            pnlE1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlE1Layout.setVerticalGroup(
-            pnlE1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        pnlE1.add(lblE1);
 
         pnlFondoTablero.add(pnlE1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 210, 70, 70));
 
         pnlG1.setBackground(new java.awt.Color(126, 162, 214));
 
-        javax.swing.GroupLayout pnlG1Layout = new javax.swing.GroupLayout(pnlG1);
-        pnlG1.setLayout(pnlG1Layout);
-        pnlG1Layout.setHorizontalGroup(
-            pnlG1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlG1Layout.setVerticalGroup(
-            pnlG1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        lblG1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/PeónNegro.png"))); // NOI18N
+        pnlG1.add(lblG1);
 
         pnlFondoTablero.add(pnlG1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 70, 70, 70));
 
         pnlG2.setBackground(new java.awt.Color(255, 255, 255));
 
-        javax.swing.GroupLayout pnlG2Layout = new javax.swing.GroupLayout(pnlG2);
-        pnlG2.setLayout(pnlG2Layout);
-        pnlG2Layout.setHorizontalGroup(
-            pnlG2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlG2Layout.setVerticalGroup(
-            pnlG2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        lblG2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/PeónNegro.png"))); // NOI18N
+        pnlG2.add(lblG2);
 
         pnlFondoTablero.add(pnlG2, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 70, 70, 70));
 
         pnlH3.setBackground(new java.awt.Color(255, 255, 255));
 
-        javax.swing.GroupLayout pnlH3Layout = new javax.swing.GroupLayout(pnlH3);
-        pnlH3.setLayout(pnlH3Layout);
-        pnlH3Layout.setHorizontalGroup(
-            pnlH3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlH3Layout.setVerticalGroup(
-            pnlH3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        lblH3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/AlfilNegro.png"))); // NOI18N
+        pnlH3.add(lblH3);
 
         pnlFondoTablero.add(pnlH3, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 0, 70, 70));
 
         pnlF1.setBackground(new java.awt.Color(255, 255, 255));
-
-        javax.swing.GroupLayout pnlF1Layout = new javax.swing.GroupLayout(pnlF1);
-        pnlF1.setLayout(pnlF1Layout);
-        pnlF1Layout.setHorizontalGroup(
-            pnlF1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
-        pnlF1Layout.setVerticalGroup(
-            pnlF1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 70, Short.MAX_VALUE)
-        );
+        pnlF1.add(lblF1);
 
         pnlFondoTablero.add(pnlF1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 140, 70, 70));
 
@@ -1141,6 +653,70 @@ public class PnlTablero extends javax.swing.JPanel {
 
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
+    private javax.swing.JLabel lblA1;
+    private javax.swing.JLabel lblA2;
+    private javax.swing.JLabel lblA3;
+    private javax.swing.JLabel lblA4;
+    private javax.swing.JLabel lblA5;
+    private javax.swing.JLabel lblA6;
+    private javax.swing.JLabel lblA7;
+    private javax.swing.JLabel lblA8;
+    private javax.swing.JLabel lblB1;
+    private javax.swing.JLabel lblB2;
+    private javax.swing.JLabel lblB3;
+    private javax.swing.JLabel lblB4;
+    private javax.swing.JLabel lblB5;
+    private javax.swing.JLabel lblB6;
+    private javax.swing.JLabel lblB7;
+    private javax.swing.JLabel lblB8;
+    private javax.swing.JLabel lblC1;
+    private javax.swing.JLabel lblC2;
+    private javax.swing.JLabel lblC3;
+    private javax.swing.JLabel lblC4;
+    private javax.swing.JLabel lblC5;
+    private javax.swing.JLabel lblC6;
+    private javax.swing.JLabel lblC7;
+    private javax.swing.JLabel lblC8;
+    private javax.swing.JLabel lblD1;
+    private javax.swing.JLabel lblD2;
+    private javax.swing.JLabel lblD3;
+    private javax.swing.JLabel lblD4;
+    private javax.swing.JLabel lblD5;
+    private javax.swing.JLabel lblD6;
+    private javax.swing.JLabel lblD7;
+    private javax.swing.JLabel lblD8;
+    private javax.swing.JLabel lblE1;
+    private javax.swing.JLabel lblE2;
+    private javax.swing.JLabel lblE3;
+    private javax.swing.JLabel lblE4;
+    private javax.swing.JLabel lblE5;
+    private javax.swing.JLabel lblE6;
+    private javax.swing.JLabel lblE7;
+    private javax.swing.JLabel lblE8;
+    private javax.swing.JLabel lblF1;
+    private javax.swing.JLabel lblF2;
+    private javax.swing.JLabel lblF3;
+    private javax.swing.JLabel lblF4;
+    private javax.swing.JLabel lblF5;
+    private javax.swing.JLabel lblF6;
+    private javax.swing.JLabel lblF7;
+    private javax.swing.JLabel lblF8;
+    private javax.swing.JLabel lblG1;
+    private javax.swing.JLabel lblG2;
+    private javax.swing.JLabel lblG3;
+    private javax.swing.JLabel lblG4;
+    private javax.swing.JLabel lblG5;
+    private javax.swing.JLabel lblG6;
+    private javax.swing.JLabel lblG7;
+    private javax.swing.JLabel lblG8;
+    private javax.swing.JLabel lblH1;
+    private javax.swing.JLabel lblH2;
+    private javax.swing.JLabel lblH3;
+    private javax.swing.JLabel lblH4;
+    private javax.swing.JLabel lblH5;
+    private javax.swing.JLabel lblH6;
+    private javax.swing.JLabel lblH7;
+    private javax.swing.JLabel lblH8;
     private javax.swing.JPanel pnlA1;
     private javax.swing.JPanel pnlA2;
     private javax.swing.JPanel pnlA3;
