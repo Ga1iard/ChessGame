@@ -244,6 +244,7 @@ public class FrmChessGame extends javax.swing.JFrame {
             //( objeto a mover | desde donde comienza  | donde termina | pasos en ir de a hacia b | tiempo)
             desplazamiento.desplazarDerecha(pnlJugar, -270, 0, 10, 15);
         }
+        //comentario
 
     }//GEN-LAST:event_pnlJugarMouseEntered
 
