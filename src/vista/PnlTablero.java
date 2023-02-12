@@ -395,6 +395,11 @@ public class PnlTablero extends javax.swing.JPanel {
         pnlFondoTablero.add(pnlC2, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 350, 70, 70));
 
         pnlB1.setBackground(new java.awt.Color(255, 255, 255));
+        pnlB1.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                pnlB1MouseClicked(evt);
+            }
+        });
 
         lblB1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/PeónBlanco.png"))); // NOI18N
         pnlB1.add(lblB1);
@@ -457,6 +462,11 @@ public class PnlTablero extends javax.swing.JPanel {
         pnlFondoTablero.add(pnlA1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 490, 70, 70));
 
         pnlD1.setBackground(new java.awt.Color(255, 255, 255));
+        pnlD1.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                pnlD1MouseClicked(evt);
+            }
+        });
         pnlD1.add(lblD1);
 
         pnlFondoTablero.add(pnlD1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 280, 70, 70));
@@ -650,6 +660,17 @@ public class PnlTablero extends javax.swing.JPanel {
             .addComponent(pnlBordeIzquierdo, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
         );
     }// </editor-fold>//GEN-END:initComponents
+
+    private void pnlB1MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_pnlB1MouseClicked
+        // TODO add your handling code here:
+        
+    }//GEN-LAST:event_pnlB1MouseClicked
+
+    private void pnlD1MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_pnlD1MouseClicked
+        // TODO add your handling code here:
+        lblD1.setIcon(lblB1.getIcon());
+        lblB1.setIcon(null);
+    }//GEN-LAST:event_pnlD1MouseClicked
 
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
