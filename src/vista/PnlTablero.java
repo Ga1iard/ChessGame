@@ -689,7 +689,7 @@ public class PnlTablero extends javax.swing.JPanel {
     private javax.swing.JLabel lblB5;
     private javax.swing.JLabel lblB6;
     private javax.swing.JLabel lblB7;
-    private javax.swing.JLabel lblB8;
+    public static javax.swing.JLabel lblB8;
     private javax.swing.JLabel lblC1;
     private javax.swing.JLabel lblC2;
     private javax.swing.JLabel lblC3;

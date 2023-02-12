@@ -318,7 +318,13 @@ public class PnlRegistroDeJugadores extends javax.swing.JPanel {
         rbtBlancasPrimerJugador.setSelected(true);
     }//GEN-LAST:event_rbtNegrasSegundoJugadorActionPerformed
 
-
+    public void asignarColorAJugadorUno(){
+        
+    }
+    
+    public void asignarColorAJugadorDos(){
+        
+    }
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.ButtonGroup btgFichaPrimerJugador;
     private javax.swing.ButtonGroup btgFichaSegundoJugador;
