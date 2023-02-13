@@ -7,6 +7,7 @@ package modelo;
 import java.awt.event.ActionEvent;
 import java.awt.event.MouseListener;
 import javax.swing.JLabel;
+import javax.swing.JPanel;
 import vista.PnlTablero;
 
 /**
@@ -27,7 +28,6 @@ public class PruebaDeMovimiento {
     private String posicionNueva;
     private String posicionActual;
     private String tablero[][];
-    private char turnoJugador;
 
     public PruebaDeMovimiento() {
         iniciarTablero();
@@ -68,7 +68,8 @@ public class PruebaDeMovimiento {
     }
 
     public void añadirAcciones() {
-        PnlTablero.lblB8.addMouseListener((MouseListener) this);
+        PnlTablero.pnlB8.addMouseListener((MouseListener) this);
+        //PnlTablero.lblB8.addMouseListener((MouseListener) this);
     }
 
     public void actionPerformed(ActionEvent ae) {
@@ -91,8 +92,8 @@ public class PruebaDeMovimiento {
         cambiarEnPantalla(posAntigua, posNueva);
     }
 
-    private String getBotonPosicionString(Object lbl) {
-        if (lbl == PnlTablero.lblB8) {
+    private String getBotonPosicionString(Object pnl) {
+        if (pnl == PnlTablero.pnlB8) {
             return "17";
         }
         return null;
@@ -123,6 +124,12 @@ public class PruebaDeMovimiento {
         lbl(posAntigua).setIcon(null);
     }
 
+    private JPanel pnl(String posicion){
+        if(posicion.equals("17")){
+            return PnlTablero.pnlB8;
+        }
+        return null;
+    }
     private JLabel lbl(String posicion) {
         if (posicion.equals("17")) {
             return PnlTablero.lblB8;

@@ -754,7 +754,7 @@ public class PnlTablero extends javax.swing.JPanel {
     private javax.swing.JPanel pnlB5;
     private javax.swing.JPanel pnlB6;
     private javax.swing.JPanel pnlB7;
-    private javax.swing.JPanel pnlB8;
+    public static javax.swing.JPanel pnlB8;
     private javax.swing.JPanel pnlBordeDerecho;
     private javax.swing.JPanel pnlBordeInferior;
     private javax.swing.JPanel pnlBordeIzquierdo;
