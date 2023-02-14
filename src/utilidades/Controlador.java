@@ -267,13 +267,13 @@ public class Controlador implements ActionListener {
 
     private JButton boton(String posicion) {
         if (posicion.equals("00")) {
-            return PnlTableroBotones.c00;
+            return PnlTableroBotones.btnA1;
         } else if (posicion.equals("01")) {
-            return PnlTableroBotones.c01;
+            return PnlTableroBotones.btnB1;
         } else if (posicion.equals("02")) {
-            return PnlTableroBotones.c02;
+            return PnlTableroBotones.btnC1;
         } else if (posicion.equals("03")) {
-            return PnlTableroBotones.c03;
+            return PnlTableroBotones.btnD1;
         } else if (posicion.equals("04")) {
             return PnlTableroBotones.c04;
         } else if (posicion.equals("05")) {
@@ -399,13 +399,13 @@ public class Controlador implements ActionListener {
     }
 
     private String getBotonPosicionString(Object boton) {
-        if (boton == PnlTableroBotones.c00) {
+        if (boton == PnlTableroBotones.btnA1) {
             return "00";
-        } else if (boton == PnlTableroBotones.c01) {
+        } else if (boton == PnlTableroBotones.btnB1) {
             return "01";
-        } else if (boton == PnlTableroBotones.c02) {
+        } else if (boton == PnlTableroBotones.btnB2) {
             return "02";
-        } else if (boton == PnlTableroBotones.c03) {
+        } else if (boton == PnlTableroBotones.btnD1) {
             return "03";
         } else if (boton == PnlTableroBotones.c04) {
             return "04";
