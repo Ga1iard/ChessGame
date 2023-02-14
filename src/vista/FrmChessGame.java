@@ -18,7 +18,7 @@ public class FrmChessGame extends javax.swing.JFrame {
     Desface desplazamiento = new Desface();
 
     PnlRegistroDeJugadores pnlRegistroDeJugadores;
-    PnlTablero pnlTablero;
+    PnlTableroBotones pnlTablero;
 
     // PnlTablero pnlTablero;
 
@@ -279,7 +279,7 @@ public class FrmChessGame extends javax.swing.JFrame {
         pnlRegistroDeJugadores = new PnlRegistroDeJugadores();
         agregarPanelDerecho(pnlRegistroDeJugadores);
 
-        pnlTablero = new PnlTablero();
+        pnlTablero = new PnlTableroBotones();
         agregarPanelIzquierdo(pnlTablero);
 
 
