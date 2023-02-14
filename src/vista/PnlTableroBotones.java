@@ -168,6 +168,7 @@ public class PnlTableroBotones extends javax.swing.JPanel {
         btnG8.setBorder(null);
         pnlFondoTablero.add(btnG8, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 0, 70, 70));
 
+        btnF1.setBackground(new java.awt.Color(204, 204, 204));
         btnF1.setBorder(null);
         pnlFondoTablero.add(btnF1, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 490, 70, 70));
 
@@ -175,6 +176,7 @@ public class PnlTableroBotones extends javax.swing.JPanel {
         btnF2.setBorder(null);
         pnlFondoTablero.add(btnF2, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 420, 70, 70));
 
+        btnF3.setBackground(new java.awt.Color(204, 204, 204));
         btnF3.setBorder(null);
         pnlFondoTablero.add(btnF3, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 350, 70, 70));
 
@@ -182,6 +184,7 @@ public class PnlTableroBotones extends javax.swing.JPanel {
         btnF4.setBorder(null);
         pnlFondoTablero.add(btnF4, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 280, 70, 70));
 
+        btnF5.setBackground(new java.awt.Color(204, 204, 204));
         btnF5.setBorder(null);
         pnlFondoTablero.add(btnF5, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 210, 70, 70));
 
@@ -189,6 +192,7 @@ public class PnlTableroBotones extends javax.swing.JPanel {
         btnF6.setBorder(null);
         pnlFondoTablero.add(btnF6, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 140, 70, 70));
 
+        btnF7.setBackground(new java.awt.Color(204, 204, 204));
         btnF7.setBorder(null);
         pnlFondoTablero.add(btnF7, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 70, 70, 70));
 
@@ -200,6 +204,7 @@ public class PnlTableroBotones extends javax.swing.JPanel {
         btnE1.setBorder(null);
         pnlFondoTablero.add(btnE1, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 490, 70, 70));
 
+        btnE2.setBackground(new java.awt.Color(204, 204, 204));
         btnE2.setBorder(null);
         pnlFondoTablero.add(btnE2, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 420, 70, 70));
 
@@ -207,6 +212,7 @@ public class PnlTableroBotones extends javax.swing.JPanel {
         btnE3.setBorder(null);
         pnlFondoTablero.add(btnE3, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 350, 70, 70));
 
+        btnE4.setBackground(new java.awt.Color(204, 204, 204));
         btnE4.setBorder(null);
         pnlFondoTablero.add(btnE4, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 280, 70, 70));
 
@@ -214,6 +220,7 @@ public class PnlTableroBotones extends javax.swing.JPanel {
         btnE5.setBorder(null);
         pnlFondoTablero.add(btnE5, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 210, 70, 70));
 
+        btnE6.setBackground(new java.awt.Color(204, 204, 204));
         btnE6.setBorder(null);
         pnlFondoTablero.add(btnE6, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 140, 70, 70));
 
@@ -221,6 +228,7 @@ public class PnlTableroBotones extends javax.swing.JPanel {
         btnE7.setBorder(null);
         pnlFondoTablero.add(btnE7, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 70, 70, 70));
 
+        btnE8.setBackground(new java.awt.Color(204, 204, 204));
         btnE8.setBorder(null);
         pnlFondoTablero.add(btnE8, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 0, 70, 70));
 

@@ -5,10 +5,12 @@
 package modelo;
 
 import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 import java.awt.event.MouseListener;
+import javax.swing.JButton;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
-import vista.PnlTablero;
+import vista.PnlTableroBotones;
 
 /**
  *
@@ -32,7 +34,7 @@ public class PruebaDeMovimiento {
     public PruebaDeMovimiento() {
         iniciarTablero();
         tablero = new String[8][8];
-        PnlTablero c = new PnlTablero();
+        PnlTableroBotones c = new PnlTableroBotones();
 
     }
 
@@ -68,7 +70,7 @@ public class PruebaDeMovimiento {
     }
 
     public void añadirAcciones() {
-        PnlTablero.pnlB8.addMouseListener((MouseListener) this);
+        //PnlTableroBotones.btnH2.addActionListener(this);
         //PnlTablero.lblB8.addMouseListener((MouseListener) this);
     }
 
@@ -89,11 +91,11 @@ public class PruebaDeMovimiento {
 
     private void cambiarFichas(String posAntigua, String posNueva) {
         cambiarEnString(posAntigua, posNueva);
-        cambiarEnPantalla(posAntigua, posNueva);
+        //cambiarEnPantalla(posAntigua, posNueva);
     }
 
     private String getBotonPosicionString(Object pnl) {
-        if (pnl == PnlTablero.pnlB8) {
+        if (pnl == PnlTableroBotones.btnH2) {
             return "17";
         }
         return null;
@@ -118,22 +120,17 @@ public class PruebaDeMovimiento {
         tablero[yN][xN] = tablero[yA][xA];
         tablero[yA][xA] = "";
     }
-
+/*
     private void cambiarEnPantalla(String posAntigua, String posNueva) {
         lbl(posNueva).setIcon(lbl(posAntigua).getIcon());
         lbl(posAntigua).setIcon(null);
-    }
+    }*/
 
-    private JPanel pnl(String posicion){
+    private JButton btn(String posicion){
         if(posicion.equals("17")){
-            return PnlTablero.pnlB8;
+            return PnlTableroBotones.btnH2;
         }
         return null;
     }
-    private JLabel lbl(String posicion) {
-        if (posicion.equals("17")) {
-            return PnlTablero.lblB8;
-        }
-        return null;
-    }
+    
 }
