@@ -4,6 +4,8 @@
  */
 package vista;
 
+import utilidades.Controlador;
+
 /**
  *
  * @author pc
@@ -15,6 +17,8 @@ public class PnlTableroBotones extends javax.swing.JPanel {
      */
     public PnlTableroBotones() {
         initComponents();
+        //dispose();
+        
     }
 
     /**

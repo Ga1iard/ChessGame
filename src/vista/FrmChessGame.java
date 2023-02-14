@@ -7,6 +7,7 @@ package vista;
 import desplazable.Desface;
 import java.awt.BorderLayout;
 import javax.swing.JPanel;
+import utilidades.Controlador;
 
 /**
  *
@@ -281,7 +282,7 @@ public class FrmChessGame extends javax.swing.JFrame {
 
         pnlTablero = new PnlTableroBotones();
         agregarPanelIzquierdo(pnlTablero);
-
+        Controlador controlador = new Controlador();
 
     }//GEN-LAST:event_pnlJugarMouseClicked
 

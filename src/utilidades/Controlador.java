@@ -5,10 +5,9 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import javax.swing.ImageIcon;
 import javax.swing.JButton;
-import vista.PnlTablero;
 
 public class Controlador implements ActionListener {
-    
+
     public static boolean enrroqueReyA = true;
     public static boolean enrroqueTorreIzquierdaA = true;
     public static boolean enrroqueTorreDerechaA = true;
@@ -17,12 +16,13 @@ public class Controlador implements ActionListener {
     public static boolean enrroqueTorreDerechaB = true;
 
     public static String[][] tablero = new String[8][8];
-    private char turnoJugador = 'A';
+
     private String posicionAntigua = null;
     private String posicionNueva = null;
     private String posicionActual;
     public static String fichaElegida;
     public static ImageIcon imagenElegida;
+    public char turnoJugador = 'A';
     //Movimientos movimientos;
     //Bot bot = new Bot();
 
@@ -32,6 +32,7 @@ public class Controlador implements ActionListener {
         vista.setVisible(true);
         añadirActionEvents();
         //movimientos = new Movimientos();
+        System.out.println("hola");
     }
 
     private void iniciarTablero() {
@@ -148,17 +149,16 @@ public class Controlador implements ActionListener {
                 posicionAntigua = posicionActual;
             } else if (posicionAntigua != null) {
                 posicionNueva = posicionActual;
-                if (movimientos.esPosibleEsteMovimiento(tablero, posicionAntigua, posicionNueva)){
-                    cambiarFichas(posicionAntigua, posicionNueva);
-                    posicionNueva = null;
-                    posicionAntigua = null;
-                    turnoMaquina();
-                    comprobarJaqueMateHaciaBlancas();
-                }
+
+                cambiarFichas(posicionAntigua, posicionNueva);
+                posicionNueva = null;
+                posicionAntigua = null;
+                //comprobarJaqueMateHaciaBlancas();
+
             }
+
         }
-    }
-    
+    }/*
     private void comprobarJaqueMateHaciaBlancas(){
         boolean jaqueMate = true;
         for(int i = 0;i<8;i++){
@@ -179,12 +179,8 @@ public class Controlador implements ActionListener {
             ventana.setVisible(true);
         }
         
-    }
-    
-    private void turnoMaquina(){
-            String[] movimientos = bot.movimientoBot(tablero);
-            cambiarFichas(movimientos[0], movimientos[1]);
-    }
+    }*/
+  
     
     
     private void cambiarFichas(String posAntigua, String posNueva) {
@@ -200,7 +196,7 @@ public class Controlador implements ActionListener {
 
         int xN = Character.getNumericValue(posNueva.charAt(1));
         int yN = Character.getNumericValue(posNueva.charAt(0));
-               
+
         tablero[yN][xN] = tablero[yA][xA];
         tablero[yA][xA] = "";
     }
@@ -214,7 +210,7 @@ public class Controlador implements ActionListener {
         for (int i = 0; i < 8; i++) {
             if (tablero[0][i].equals("A_peon")) {
                 //Se mostrara la tabla de eleccion de ficha
-                eleccionDePeon();
+                //eleccionDePeon();
                 tablero[0][i] = fichaElegida;
                 String posicion = "0" + i;
                 boton(posicion).setIcon(imagenElegida);
@@ -228,10 +224,11 @@ public class Controlador implements ActionListener {
         }
     }
 
+    /*
     private void eleccionDePeon() {
         VentanaEleccionFicha ventanaElec = new VentanaEleccionFicha(null, true);
         ventanaElec.setVisible(true);
-    }
+    }*/
 
     private void comprobarEnrroque(String posAntigua, String posNueva) {
         int xN = Character.getNumericValue(posNueva.charAt(1));
@@ -275,45 +272,45 @@ public class Controlador implements ActionListener {
         } else if (posicion.equals("03")) {
             return PnlTableroBotones.btnD1;
         } else if (posicion.equals("04")) {
-            return PnlTableroBotones.c04;
+            return PnlTableroBotones.btnE1;
         } else if (posicion.equals("05")) {
-            return PnlTableroBotones.c05;
+            return PnlTableroBotones.btnF1;
         } else if (posicion.equals("06")) {
-            return PnlTableroBotones.c06;
+            return PnlTableroBotones.btnG1;
         } else if (posicion.equals("07")) {
-            return PnlTableroBotones.c07;
+            return PnlTableroBotones.btnH1;
         } else if (posicion.equals("10")) {
-            return PnlTableroBotones.c10;
+            return PnlTableroBotones.btnA2;
         } else if (posicion.equals("11")) {
-            return PnlTableroBotones.c11;
+            return PnlTableroBotones.btnB2;
         } else if (posicion.equals("12")) {
-            return PnlTableroBotones.c12;
+            return PnlTableroBotones.btnC2;
         } else if (posicion.equals("13")) {
-            return PnlTableroBotones.c13;
+            return PnlTableroBotones.btnD2;
         } else if (posicion.equals("14")) {
-            return PnlTableroBotones.c14;
+            return PnlTableroBotones.btnE2;
         } else if (posicion.equals("15")) {
-            return PnlTableroBotones.c15;
+            return PnlTableroBotones.btnF2;
         } else if (posicion.equals("16")) {
-            return PnlTableroBotones.c16;
+            return PnlTableroBotones.btnG2;
         } else if (posicion.equals("17")) {
-            return PnlTableroBotones.c17;
+            return PnlTableroBotones.btnH2;
         } else if (posicion.equals("20")) {
-            return PnlTableroBotones.c20;
+            return PnlTableroBotones.btnA3;
         } else if (posicion.equals("21")) {
-            return PnlTableroBotones.c21;
+            return PnlTableroBotones.btnB3;
         } else if (posicion.equals("22")) {
-            return PnlTableroBotones.c22;
+            return PnlTableroBotones.btnC3;
         } else if (posicion.equals("23")) {
-            return PnlTableroBotones.c23;
+            return PnlTableroBotones.btnD3;
         } else if (posicion.equals("24")) {
-            return PnlTableroBotones.c24;
+            return PnlTableroBotones.btnE3;
         } else if (posicion.equals("25")) {
-            return PnlTableroBotones.c25;
+            return PnlTableroBotones.btnF3;
         } else if (posicion.equals("26")) {
-            return PnlTableroBotones.c26;
+            return PnlTableroBotones.btnG3;
         } else if (posicion.equals("27")) {
-            return PnlTableroBotones.c27;
+            return PnlTableroBotones.btnH3;
         } else if (posicion.equals("30")) {
             return PnlTableroBotones.btnA4;
         } else if (posicion.equals("31")) {
@@ -323,77 +320,77 @@ public class Controlador implements ActionListener {
         } else if (posicion.equals("33")) {
             return PnlTableroBotones.btnD4;
         } else if (posicion.equals("34")) {
-            return PnlTableroBotones.c34;
+            return PnlTableroBotones.btnE4;
         } else if (posicion.equals("35")) {
-            return PnlTableroBotones.c35;
+            return PnlTableroBotones.btnF4;
         } else if (posicion.equals("36")) {
-            return PnlTableroBotones.c36;
+            return PnlTableroBotones.btnG4;
         } else if (posicion.equals("37")) {
-            return PnlTableroBotones.c37;
+            return PnlTableroBotones.btnH4;
         } else if (posicion.equals("40")) {
-            return PnlTableroBotones.c40;
+            return PnlTableroBotones.btnA5;
         } else if (posicion.equals("41")) {
-            return PnlTableroBotones.c41;
+            return PnlTableroBotones.btnB5;
         } else if (posicion.equals("42")) {
-            return PnlTableroBotones.c42;
+            return PnlTableroBotones.btnC5;
         } else if (posicion.equals("43")) {
-            return PnlTableroBotones.c43;
+            return PnlTableroBotones.btnD5;
         } else if (posicion.equals("44")) {
-            return PnlTableroBotones.c44;
+            return PnlTableroBotones.btnE5;
         } else if (posicion.equals("45")) {
-            return PnlTableroBotones.c45;
+            return PnlTableroBotones.btnF5;
         } else if (posicion.equals("46")) {
-            return PnlTableroBotones.c46;
+            return PnlTableroBotones.btnG5;
         } else if (posicion.equals("47")) {
-            return PnlTableroBotones.c47;
+            return PnlTableroBotones.btnH5;
         } else if (posicion.equals("50")) {
-            return PnlTableroBotones.c50;
+            return PnlTableroBotones.btnA6;
         } else if (posicion.equals("51")) {
-            return PnlTableroBotones.c51;
+            return PnlTableroBotones.btnB6;
         } else if (posicion.equals("52")) {
-            return PnlTableroBotones.c52;
+            return PnlTableroBotones.btnC6;
         } else if (posicion.equals("53")) {
-            return PnlTableroBotones.c53;
+            return PnlTableroBotones.btnD6;
         } else if (posicion.equals("54")) {
-            return PnlTableroBotones.c54;
+            return PnlTableroBotones.btnE6;
         } else if (posicion.equals("55")) {
-            return PnlTableroBotones.c55;
+            return PnlTableroBotones.btnF6;
         } else if (posicion.equals("56")) {
-            return PnlTableroBotones.c56;
+            return PnlTableroBotones.btnG6;
         } else if (posicion.equals("57")) {
-            return PnlTableroBotones.c57;
+            return PnlTableroBotones.btnH6;
         } else if (posicion.equals("60")) {
-            return PnlTableroBotones.c60;
+            return PnlTableroBotones.btnA7;
         } else if (posicion.equals("61")) {
-            return PnlTableroBotones.c61;
+            return PnlTableroBotones.btnB7;
         } else if (posicion.equals("62")) {
-            return PnlTableroBotones.c62;
+            return PnlTableroBotones.btnC7;
         } else if (posicion.equals("63")) {
-            return PnlTableroBotones.c63;
+            return PnlTableroBotones.btnD7;
         } else if (posicion.equals("64")) {
-            return PnlTableroBotones.c64;
+            return PnlTableroBotones.btnE7;
         } else if (posicion.equals("65")) {
-            return PnlTableroBotones.c65;
+            return PnlTableroBotones.btnF7;
         } else if (posicion.equals("66")) {
-            return PnlTableroBotones.c66;
+            return PnlTableroBotones.btnG7;
         } else if (posicion.equals("67")) {
-            return PnlTableroBotones.c67;
+            return PnlTableroBotones.btnH7;
         } else if (posicion.equals("70")) {
-            return PnlTableroBotones.c70;
+            return PnlTableroBotones.btnA8;
         } else if (posicion.equals("71")) {
-            return PnlTableroBotones.c71;
+            return PnlTableroBotones.btnB8;
         } else if (posicion.equals("72")) {
-            return PnlTableroBotones.c72;
+            return PnlTableroBotones.btnC8;
         } else if (posicion.equals("73")) {
-            return PnlTableroBotones.c73;
+            return PnlTableroBotones.btnD8;
         } else if (posicion.equals("74")) {
-            return PnlTableroBotones.c74;
+            return PnlTableroBotones.btnE8;
         } else if (posicion.equals("75")) {
-            return PnlTableroBotones.c75;
+            return PnlTableroBotones.btnF8;
         } else if (posicion.equals("76")) {
-            return PnlTableroBotones.c76;
+            return PnlTableroBotones.btnG8;
         } else if (posicion.equals("77")) {
-            return PnlTableroBotones.c77;
+            return PnlTableroBotones.btnH8;
         }
         return null;
     }
@@ -407,45 +404,45 @@ public class Controlador implements ActionListener {
             return "02";
         } else if (boton == PnlTableroBotones.btnD1) {
             return "03";
-        } else if (boton == PnlTableroBotones.c04) {
+        } else if (boton == PnlTableroBotones.btnE1) {
             return "04";
-        } else if (boton == PnlTableroBotones.c05) {
+        } else if (boton == PnlTableroBotones.btnF1) {
             return "05";
-        } else if (boton == PnlTableroBotones.c06) {
+        } else if (boton == PnlTableroBotones.btnG1) {
             return "06";
-        } else if (boton == PnlTableroBotones.c07) {
+        } else if (boton == PnlTableroBotones.btnH1) {
             return "07";
-        } else if (boton == PnlTableroBotones.c10) {
+        } else if (boton == PnlTableroBotones.btnA2) {
             return "10";
-        } else if (boton == PnlTableroBotones.c11) {
+        } else if (boton == PnlTableroBotones.btnB2) {
             return "11";
-        } else if (boton == PnlTableroBotones.c12) {
+        } else if (boton == PnlTableroBotones.btnC2) {
             return "12";
-        } else if (boton == PnlTableroBotones.c13) {
+        } else if (boton == PnlTableroBotones.btnD2) {
             return "13";
-        } else if (boton == PnlTableroBotones.c14) {
+        } else if (boton == PnlTableroBotones.btnE2) {
             return "14";
-        } else if (boton == PnlTableroBotones.c15) {
+        } else if (boton == PnlTableroBotones.btnF2) {
             return "15";
-        } else if (boton == PnlTableroBotones.c16) {
+        } else if (boton == PnlTableroBotones.btnG2) {
             return "16";
-        } else if (boton == PnlTableroBotones.c17) {
+        } else if (boton == PnlTableroBotones.btnH2) {
             return "17";
-        } else if (boton == PnlTableroBotones.c20) {
+        } else if (boton == PnlTableroBotones.btnA3) {
             return "20";
-        } else if (boton == PnlTableroBotones.c21) {
+        } else if (boton == PnlTableroBotones.btnB3) {
             return "21";
-        } else if (boton == PnlTableroBotones.c22) {
+        } else if (boton == PnlTableroBotones.btnC3) {
             return "22";
-        } else if (boton == PnlTableroBotones.c23) {
+        } else if (boton == PnlTableroBotones.btnD3) {
             return "23";
-        } else if (boton == PnlTableroBotones.c24) {
+        } else if (boton == PnlTableroBotones.btnE3) {
             return "24";
-        } else if (boton == PnlTableroBotones.c25) {
+        } else if (boton == PnlTableroBotones.btnF3) {
             return "25";
-        } else if (boton == PnlTableroBotones.c26) {
+        } else if (boton == PnlTableroBotones.btnG3) {
             return "26";
-        } else if (boton == PnlTableroBotones.c27) {
+        } else if (boton == PnlTableroBotones.btnH3) {
             return "27";
         } else if (boton == PnlTableroBotones.btnA4) {
             return "30";
@@ -455,77 +452,77 @@ public class Controlador implements ActionListener {
             return "32";
         } else if (boton == PnlTableroBotones.btnD4) {
             return "33";
-        } else if (boton == PnlTableroBotones.c34) {
+        } else if (boton == PnlTableroBotones.btnE4) {
             return "34";
-        } else if (boton == PnlTableroBotones.c35) {
+        } else if (boton == PnlTableroBotones.btnF4) {
             return "35";
-        } else if (boton == PnlTableroBotones.c36) {
+        } else if (boton == PnlTableroBotones.btnG4) {
             return "36";
-        } else if (boton == PnlTableroBotones.c37) {
+        } else if (boton == PnlTableroBotones.btnH4) {
             return "37";
-        } else if (boton == PnlTableroBotones.c40) {
+        } else if (boton == PnlTableroBotones.btnA5) {
             return "40";
-        } else if (boton == PnlTableroBotones.c41) {
+        } else if (boton == PnlTableroBotones.btnB5) {
             return "41";
-        } else if (boton == PnlTableroBotones.c42) {
+        } else if (boton == PnlTableroBotones.btnC5) {
             return "42";
-        } else if (boton == PnlTableroBotones.c43) {
+        } else if (boton == PnlTableroBotones.btnD5) {
             return "43";
-        } else if (boton == PnlTableroBotones.c44) {
+        } else if (boton == PnlTableroBotones.btnE5) {
             return "44";
-        } else if (boton == PnlTableroBotones.c45) {
+        } else if (boton == PnlTableroBotones.btnF5) {
             return "45";
-        } else if (boton == PnlTableroBotones.c46) {
+        } else if (boton == PnlTableroBotones.btnG5) {
             return "46";
-        } else if (boton == PnlTableroBotones.c47) {
+        } else if (boton == PnlTableroBotones.btnH5) {
             return "47";
-        } else if (boton == PnlTableroBotones.c50) {
+        } else if (boton == PnlTableroBotones.btnA6) {
             return "50";
-        } else if (boton == PnlTableroBotones.c51) {
+        } else if (boton == PnlTableroBotones.btnB6) {
             return "51";
-        } else if (boton == PnlTableroBotones.c52) {
+        } else if (boton == PnlTableroBotones.btnC6) {
             return "52";
-        } else if (boton == PnlTableroBotones.c53) {
+        } else if (boton == PnlTableroBotones.btnD6) {
             return "53";
-        } else if (boton == PnlTableroBotones.c54) {
+        } else if (boton == PnlTableroBotones.btnE6) {
             return "54";
-        } else if (boton == PnlTableroBotones.c55) {
+        } else if (boton == PnlTableroBotones.btnF6) {
             return "55";
-        } else if (boton == PnlTableroBotones.c56) {
+        } else if (boton == PnlTableroBotones.btnG6) {
             return "56";
-        } else if (boton == PnlTableroBotones.c57) {
+        } else if (boton == PnlTableroBotones.btnH6) {
             return "57";
-        } else if (boton == PnlTableroBotones.c60) {
+        } else if (boton == PnlTableroBotones.btnA7) {
             return "60";
-        } else if (boton == PnlTableroBotones.c61) {
+        } else if (boton == PnlTableroBotones.btnB7) {
             return "61";
-        } else if (boton == PnlTableroBotones.c62) {
+        } else if (boton == PnlTableroBotones.btnC7) {
             return "62";
-        } else if (boton == PnlTableroBotones.c63) {
+        } else if (boton == PnlTableroBotones.btnD7) {
             return "63";
-        } else if (boton == PnlTableroBotones.c64) {
+        } else if (boton == PnlTableroBotones.btnE7) {
             return "64";
-        } else if (boton == PnlTableroBotones.c65) {
+        } else if (boton == PnlTableroBotones.btnF7) {
             return "65";
-        } else if (boton == PnlTableroBotones.c66) {
+        } else if (boton == PnlTableroBotones.btnG7) {
             return "66";
-        } else if (boton == PnlTableroBotones.c67) {
+        } else if (boton == PnlTableroBotones.btnH7) {
             return "67";
-        } else if (boton == PnlTableroBotones.c70) {
+        } else if (boton == PnlTableroBotones.btnA8) {
             return "70";
-        } else if (boton == PnlTableroBotones.c71) {
+        } else if (boton == PnlTableroBotones.btnB8) {
             return "71";
-        } else if (boton == PnlTableroBotones.c72) {
+        } else if (boton == PnlTableroBotones.btnC8) {
             return "72";
-        } else if (boton == PnlTableroBotones.c73) {
+        } else if (boton == PnlTableroBotones.btnD8) {
             return "73";
-        } else if (boton == PnlTableroBotones.c74) {
+        } else if (boton == PnlTableroBotones.btnE8) {
             return "74";
-        } else if (boton == PnlTableroBotones.c75) {
+        } else if (boton == PnlTableroBotones.btnF8) {
             return "75";
-        } else if (boton == PnlTableroBotones.c76) {
+        } else if (boton == PnlTableroBotones.btnG8) {
             return "76";
-        } else if (boton == PnlTableroBotones.c77) {
+        } else if (boton == PnlTableroBotones.btnH8) {
             return "77";
         }
         return null;
