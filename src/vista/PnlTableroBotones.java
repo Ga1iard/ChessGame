@@ -43,6 +43,38 @@ public class PnlTableroBotones extends javax.swing.JPanel {
         btnG6 = new javax.swing.JButton();
         btnG7 = new javax.swing.JButton();
         btnG8 = new javax.swing.JButton();
+        btnF1 = new javax.swing.JButton();
+        btnF2 = new javax.swing.JButton();
+        btnF3 = new javax.swing.JButton();
+        btnF4 = new javax.swing.JButton();
+        btnF5 = new javax.swing.JButton();
+        btnF6 = new javax.swing.JButton();
+        btnF7 = new javax.swing.JButton();
+        btnF8 = new javax.swing.JButton();
+        btnE1 = new javax.swing.JButton();
+        btnE2 = new javax.swing.JButton();
+        btnE3 = new javax.swing.JButton();
+        btnE4 = new javax.swing.JButton();
+        btnE5 = new javax.swing.JButton();
+        btnE6 = new javax.swing.JButton();
+        btnE7 = new javax.swing.JButton();
+        btnE8 = new javax.swing.JButton();
+        btnD1 = new javax.swing.JButton();
+        btnD2 = new javax.swing.JButton();
+        btnD3 = new javax.swing.JButton();
+        btnD4 = new javax.swing.JButton();
+        btnD5 = new javax.swing.JButton();
+        btnD6 = new javax.swing.JButton();
+        btnD7 = new javax.swing.JButton();
+        btnD8 = new javax.swing.JButton();
+        btnC1 = new javax.swing.JButton();
+        btnC2 = new javax.swing.JButton();
+        btnC3 = new javax.swing.JButton();
+        btnC4 = new javax.swing.JButton();
+        btnC5 = new javax.swing.JButton();
+        btnC6 = new javax.swing.JButton();
+        btnC7 = new javax.swing.JButton();
+        btnC8 = new javax.swing.JButton();
 
         setBackground(new java.awt.Color(255, 255, 255));
         setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
@@ -120,6 +152,126 @@ public class PnlTableroBotones extends javax.swing.JPanel {
         btnG8.setBorder(null);
         pnlFondoTablero.add(btnG8, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 0, 70, 70));
 
+        btnF1.setBorder(null);
+        pnlFondoTablero.add(btnF1, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 490, 70, 70));
+
+        btnF2.setBackground(new java.awt.Color(126, 162, 214));
+        btnF2.setBorder(null);
+        pnlFondoTablero.add(btnF2, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 420, 70, 70));
+
+        btnF3.setBorder(null);
+        pnlFondoTablero.add(btnF3, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 350, 70, 70));
+
+        btnF4.setBackground(new java.awt.Color(126, 162, 214));
+        btnF4.setBorder(null);
+        pnlFondoTablero.add(btnF4, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 280, 70, 70));
+
+        btnF5.setBorder(null);
+        pnlFondoTablero.add(btnF5, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 210, 70, 70));
+
+        btnF6.setBackground(new java.awt.Color(126, 162, 214));
+        btnF6.setBorder(null);
+        pnlFondoTablero.add(btnF6, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 140, 70, 70));
+
+        btnF7.setBorder(null);
+        pnlFondoTablero.add(btnF7, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 70, 70, 70));
+
+        btnF8.setBackground(new java.awt.Color(126, 162, 214));
+        btnF8.setBorder(null);
+        pnlFondoTablero.add(btnF8, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 0, 70, 70));
+
+        btnE1.setBackground(new java.awt.Color(126, 162, 214));
+        btnE1.setBorder(null);
+        pnlFondoTablero.add(btnE1, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 490, 70, 70));
+
+        btnE2.setBorder(null);
+        pnlFondoTablero.add(btnE2, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 420, 70, 70));
+
+        btnE3.setBackground(new java.awt.Color(126, 162, 214));
+        btnE3.setBorder(null);
+        pnlFondoTablero.add(btnE3, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 350, 70, 70));
+
+        btnE4.setBorder(null);
+        pnlFondoTablero.add(btnE4, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 280, 70, 70));
+
+        btnE5.setBackground(new java.awt.Color(126, 162, 214));
+        btnE5.setBorder(null);
+        pnlFondoTablero.add(btnE5, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 210, 70, 70));
+
+        btnE6.setBorder(null);
+        pnlFondoTablero.add(btnE6, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 140, 70, 70));
+
+        btnE7.setBackground(new java.awt.Color(126, 162, 214));
+        btnE7.setBorder(null);
+        pnlFondoTablero.add(btnE7, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 70, 70, 70));
+
+        btnE8.setBorder(null);
+        pnlFondoTablero.add(btnE8, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 0, 70, 70));
+
+        btnD1.setBackground(new java.awt.Color(204, 204, 204));
+        btnD1.setBorder(null);
+        pnlFondoTablero.add(btnD1, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 490, 70, 70));
+
+        btnD2.setBackground(new java.awt.Color(126, 162, 214));
+        btnD2.setBorder(null);
+        pnlFondoTablero.add(btnD2, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 420, 70, 70));
+
+        btnD3.setBackground(new java.awt.Color(204, 204, 204));
+        btnD3.setBorder(null);
+        pnlFondoTablero.add(btnD3, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 350, 70, 70));
+
+        btnD4.setBackground(new java.awt.Color(126, 162, 214));
+        btnD4.setBorder(null);
+        pnlFondoTablero.add(btnD4, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 280, 70, 70));
+
+        btnD5.setBackground(new java.awt.Color(204, 204, 204));
+        btnD5.setBorder(null);
+        pnlFondoTablero.add(btnD5, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 210, 70, 70));
+
+        btnD6.setBackground(new java.awt.Color(126, 162, 214));
+        btnD6.setBorder(null);
+        pnlFondoTablero.add(btnD6, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 140, 70, 70));
+
+        btnD7.setBackground(new java.awt.Color(204, 204, 204));
+        btnD7.setBorder(null);
+        pnlFondoTablero.add(btnD7, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 70, 70, 70));
+
+        btnD8.setBackground(new java.awt.Color(126, 162, 214));
+        btnD8.setBorder(null);
+        pnlFondoTablero.add(btnD8, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 0, 70, 70));
+
+        btnC1.setBackground(new java.awt.Color(126, 162, 214));
+        btnC1.setBorder(null);
+        pnlFondoTablero.add(btnC1, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 490, 70, 70));
+
+        btnC2.setBackground(new java.awt.Color(204, 204, 204));
+        btnC2.setBorder(null);
+        pnlFondoTablero.add(btnC2, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 420, 70, 70));
+
+        btnC3.setBackground(new java.awt.Color(126, 162, 214));
+        btnC3.setBorder(null);
+        pnlFondoTablero.add(btnC3, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 350, 70, 70));
+
+        btnC4.setBackground(new java.awt.Color(204, 204, 204));
+        btnC4.setBorder(null);
+        pnlFondoTablero.add(btnC4, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 280, 70, 70));
+
+        btnC5.setBackground(new java.awt.Color(126, 162, 214));
+        btnC5.setBorder(null);
+        pnlFondoTablero.add(btnC5, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 210, 70, 70));
+
+        btnC6.setBackground(new java.awt.Color(204, 204, 204));
+        btnC6.setBorder(null);
+        pnlFondoTablero.add(btnC6, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 140, 70, 70));
+
+        btnC7.setBackground(new java.awt.Color(126, 162, 214));
+        btnC7.setBorder(null);
+        pnlFondoTablero.add(btnC7, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 70, 70, 70));
+
+        btnC8.setBackground(new java.awt.Color(204, 204, 204));
+        btnC8.setBorder(null);
+        pnlFondoTablero.add(btnC8, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 0, 70, 70));
+
         add(pnlFondoTablero, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 20, 560, 560));
     }// </editor-fold>//GEN-END:initComponents
 
@@ -129,6 +281,38 @@ public class PnlTableroBotones extends javax.swing.JPanel {
 
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
+    private javax.swing.JButton btnC1;
+    private javax.swing.JButton btnC2;
+    private javax.swing.JButton btnC3;
+    private javax.swing.JButton btnC4;
+    private javax.swing.JButton btnC5;
+    private javax.swing.JButton btnC6;
+    private javax.swing.JButton btnC7;
+    private javax.swing.JButton btnC8;
+    private javax.swing.JButton btnD1;
+    private javax.swing.JButton btnD2;
+    private javax.swing.JButton btnD3;
+    private javax.swing.JButton btnD4;
+    private javax.swing.JButton btnD5;
+    private javax.swing.JButton btnD6;
+    private javax.swing.JButton btnD7;
+    private javax.swing.JButton btnD8;
+    private javax.swing.JButton btnE1;
+    private javax.swing.JButton btnE2;
+    private javax.swing.JButton btnE3;
+    private javax.swing.JButton btnE4;
+    private javax.swing.JButton btnE5;
+    private javax.swing.JButton btnE6;
+    private javax.swing.JButton btnE7;
+    private javax.swing.JButton btnE8;
+    private javax.swing.JButton btnF1;
+    private javax.swing.JButton btnF2;
+    private javax.swing.JButton btnF3;
+    private javax.swing.JButton btnF4;
+    private javax.swing.JButton btnF5;
+    private javax.swing.JButton btnF6;
+    private javax.swing.JButton btnF7;
+    private javax.swing.JButton btnF8;
     private javax.swing.JButton btnG1;
     private javax.swing.JButton btnG2;
     private javax.swing.JButton btnG3;
