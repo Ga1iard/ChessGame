@@ -97,46 +97,46 @@ public class Controlador implements ActionListener {
         PnlTableroBotones.btnB4.addActionListener(this);
         PnlTableroBotones.btnC4.addActionListener(this);
         PnlTableroBotones.btnD4.addActionListener(this);
-        PnlTableroBotones.c34.addActionListener(this);
-        PnlTableroBotones.c35.addActionListener(this);
-        PnlTableroBotones.c36.addActionListener(this);
-        PnlTableroBotones.c37.addActionListener(this);
+        PnlTableroBotones.btnE4.addActionListener(this);
+        PnlTableroBotones.btnF4.addActionListener(this);
+        PnlTableroBotones.btnG4.addActionListener(this);
+        PnlTableroBotones.btnH4.addActionListener(this);
 
-        PnlTableroBotones.c40.addActionListener(this);
-        PnlTableroBotones.c41.addActionListener(this);
-        PnlTableroBotones.c42.addActionListener(this);
-        PnlTableroBotones.c43.addActionListener(this);
-        PnlTableroBotones.c44.addActionListener(this);
-        PnlTableroBotones.c45.addActionListener(this);
-        PnlTableroBotones.c46.addActionListener(this);
-        PnlTableroBotones.c47.addActionListener(this);
+        PnlTableroBotones.btnA5.addActionListener(this);
+        PnlTableroBotones.btnB5.addActionListener(this);
+        PnlTableroBotones.btnC5.addActionListener(this);
+        PnlTableroBotones.btnD5.addActionListener(this);
+        PnlTableroBotones.btnE5.addActionListener(this);
+        PnlTableroBotones.btnF5.addActionListener(this);
+        PnlTableroBotones.btnG5.addActionListener(this);
+        PnlTableroBotones.btnH5.addActionListener(this);
 
-        PnlTableroBotones.c50.addActionListener(this);
-        PnlTableroBotones.c51.addActionListener(this);
-        PnlTableroBotones.c52.addActionListener(this);
-        PnlTableroBotones.c53.addActionListener(this);
-        PnlTableroBotones.c54.addActionListener(this);
-        PnlTableroBotones.c55.addActionListener(this);
-        PnlTableroBotones.c56.addActionListener(this);
-        PnlTableroBotones.c57.addActionListener(this);
+        PnlTableroBotones.btnA6.addActionListener(this);
+        PnlTableroBotones.btnB6.addActionListener(this);
+        PnlTableroBotones.btnC6.addActionListener(this);
+        PnlTableroBotones.btnD6.addActionListener(this);
+        PnlTableroBotones.btnE6.addActionListener(this);
+        PnlTableroBotones.btnF6.addActionListener(this);
+        PnlTableroBotones.btnG6.addActionListener(this);
+        PnlTableroBotones.btnH6.addActionListener(this);
 
-        PnlTableroBotones.c60.addActionListener(this);
-        PnlTableroBotones.c61.addActionListener(this);
-        PnlTableroBotones.c62.addActionListener(this);
-        PnlTableroBotones.c63.addActionListener(this);
-        PnlTableroBotones.c64.addActionListener(this);
-        PnlTableroBotones.c65.addActionListener(this);
-        PnlTableroBotones.c66.addActionListener(this);
-        PnlTableroBotones.c67.addActionListener(this);
+        PnlTableroBotones.btnA7.addActionListener(this);
+        PnlTableroBotones.btnB7.addActionListener(this);
+        PnlTableroBotones.btnC7.addActionListener(this);
+        PnlTableroBotones.btnD7.addActionListener(this);
+        PnlTableroBotones.btnE7.addActionListener(this);
+        PnlTableroBotones.btnF7.addActionListener(this);
+        PnlTableroBotones.btnG7.addActionListener(this);
+        PnlTableroBotones.btnH7.addActionListener(this);
 
-        PnlTableroBotones.c70.addActionListener(this);
-        PnlTableroBotones.c71.addActionListener(this);
-        PnlTableroBotones.c72.addActionListener(this);
-        PnlTableroBotones.c73.addActionListener(this);
-        PnlTableroBotones.c74.addActionListener(this);
-        PnlTableroBotones.c75.addActionListener(this);
-        PnlTableroBotones.c76.addActionListener(this);
-        PnlTableroBotones.c77.addActionListener(this);
+        PnlTableroBotones.btnA8.addActionListener(this);
+        PnlTableroBotones.btnB8.addActionListener(this);
+        PnlTableroBotones.btnC8.addActionListener(this);
+        PnlTableroBotones.btnD8.addActionListener(this);
+        PnlTableroBotones.btnE8.addActionListener(this);
+        PnlTableroBotones.btnF8.addActionListener(this);
+        PnlTableroBotones.btnG8.addActionListener(this);
+        PnlTableroBotones.btnH8.addActionListener(this);
     }
 
     @Override
