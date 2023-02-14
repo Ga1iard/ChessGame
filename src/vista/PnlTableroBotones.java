@@ -98,6 +98,7 @@ public class PnlTableroBotones extends javax.swing.JPanel {
         pnlFondoTablero.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
         btnH1.setBackground(new java.awt.Color(204, 204, 204));
+        btnH1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/TorreBlanca.png"))); // NOI18N
         btnH1.setBorder(null);
         pnlFondoTablero.add(btnH1, new org.netbeans.lib.awtextra.AbsoluteConstraints(490, 490, 70, 70));
 
@@ -129,18 +130,22 @@ public class PnlTableroBotones extends javax.swing.JPanel {
         pnlFondoTablero.add(btnH6, new org.netbeans.lib.awtextra.AbsoluteConstraints(490, 140, 70, 70));
 
         btnH7.setBackground(new java.awt.Color(204, 204, 204));
+        btnH7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/PeónNegro.png"))); // NOI18N
         btnH7.setBorder(null);
         pnlFondoTablero.add(btnH7, new org.netbeans.lib.awtextra.AbsoluteConstraints(490, 70, 70, 70));
 
         btnH8.setBackground(new java.awt.Color(126, 162, 214));
+        btnH8.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/TorreNegra.png"))); // NOI18N
         btnH8.setBorder(null);
         pnlFondoTablero.add(btnH8, new org.netbeans.lib.awtextra.AbsoluteConstraints(490, 0, 70, 70));
 
         btnG1.setBackground(new java.awt.Color(126, 162, 214));
+        btnG1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/CaballoBlanco.png"))); // NOI18N
         btnG1.setBorder(null);
         pnlFondoTablero.add(btnG1, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 490, 70, 70));
 
         btnG2.setBackground(new java.awt.Color(204, 204, 204));
+        btnG2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/PeónBlanco.png"))); // NOI18N
         btnG2.setBorder(null);
         pnlFondoTablero.add(btnG2, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 420, 70, 70));
 
@@ -161,18 +166,22 @@ public class PnlTableroBotones extends javax.swing.JPanel {
         pnlFondoTablero.add(btnG6, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 140, 70, 70));
 
         btnG7.setBackground(new java.awt.Color(126, 162, 214));
+        btnG7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/PeónNegro.png"))); // NOI18N
         btnG7.setBorder(null);
         pnlFondoTablero.add(btnG7, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 70, 70, 70));
 
         btnG8.setBackground(new java.awt.Color(204, 204, 204));
+        btnG8.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/CaballoNegro.png"))); // NOI18N
         btnG8.setBorder(null);
         pnlFondoTablero.add(btnG8, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 0, 70, 70));
 
         btnF1.setBackground(new java.awt.Color(204, 204, 204));
+        btnF1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/AlfilBlanco.png"))); // NOI18N
         btnF1.setBorder(null);
         pnlFondoTablero.add(btnF1, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 490, 70, 70));
 
         btnF2.setBackground(new java.awt.Color(126, 162, 214));
+        btnF2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/PeónBlanco.png"))); // NOI18N
         btnF2.setBorder(null);
         pnlFondoTablero.add(btnF2, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 420, 70, 70));
 
@@ -193,18 +202,22 @@ public class PnlTableroBotones extends javax.swing.JPanel {
         pnlFondoTablero.add(btnF6, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 140, 70, 70));
 
         btnF7.setBackground(new java.awt.Color(204, 204, 204));
+        btnF7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/PeónNegro.png"))); // NOI18N
         btnF7.setBorder(null);
         pnlFondoTablero.add(btnF7, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 70, 70, 70));
 
         btnF8.setBackground(new java.awt.Color(126, 162, 214));
+        btnF8.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/AlfilNegro.png"))); // NOI18N
         btnF8.setBorder(null);
         pnlFondoTablero.add(btnF8, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 0, 70, 70));
 
         btnE1.setBackground(new java.awt.Color(126, 162, 214));
+        btnE1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/ReyBlanco.png"))); // NOI18N
         btnE1.setBorder(null);
         pnlFondoTablero.add(btnE1, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 490, 70, 70));
 
         btnE2.setBackground(new java.awt.Color(204, 204, 204));
+        btnE2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/PeónBlanco.png"))); // NOI18N
         btnE2.setBorder(null);
         pnlFondoTablero.add(btnE2, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 420, 70, 70));
 
@@ -225,18 +238,22 @@ public class PnlTableroBotones extends javax.swing.JPanel {
         pnlFondoTablero.add(btnE6, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 140, 70, 70));
 
         btnE7.setBackground(new java.awt.Color(126, 162, 214));
+        btnE7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/PeónNegro.png"))); // NOI18N
         btnE7.setBorder(null);
         pnlFondoTablero.add(btnE7, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 70, 70, 70));
 
         btnE8.setBackground(new java.awt.Color(204, 204, 204));
+        btnE8.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/ReyNegro.png"))); // NOI18N
         btnE8.setBorder(null);
         pnlFondoTablero.add(btnE8, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 0, 70, 70));
 
         btnD1.setBackground(new java.awt.Color(204, 204, 204));
+        btnD1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/DamaBlanca.png"))); // NOI18N
         btnD1.setBorder(null);
         pnlFondoTablero.add(btnD1, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 490, 70, 70));
 
         btnD2.setBackground(new java.awt.Color(126, 162, 214));
+        btnD2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/PeónBlanco.png"))); // NOI18N
         btnD2.setBorder(null);
         pnlFondoTablero.add(btnD2, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 420, 70, 70));
 
@@ -257,18 +274,22 @@ public class PnlTableroBotones extends javax.swing.JPanel {
         pnlFondoTablero.add(btnD6, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 140, 70, 70));
 
         btnD7.setBackground(new java.awt.Color(204, 204, 204));
+        btnD7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/PeónNegro.png"))); // NOI18N
         btnD7.setBorder(null);
         pnlFondoTablero.add(btnD7, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 70, 70, 70));
 
         btnD8.setBackground(new java.awt.Color(126, 162, 214));
+        btnD8.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/DamaNegra.png"))); // NOI18N
         btnD8.setBorder(null);
         pnlFondoTablero.add(btnD8, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 0, 70, 70));
 
         btnC1.setBackground(new java.awt.Color(126, 162, 214));
+        btnC1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/AlfilBlanco.png"))); // NOI18N
         btnC1.setBorder(null);
         pnlFondoTablero.add(btnC1, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 490, 70, 70));
 
         btnC2.setBackground(new java.awt.Color(204, 204, 204));
+        btnC2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/PeónBlanco.png"))); // NOI18N
         btnC2.setBorder(null);
         pnlFondoTablero.add(btnC2, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 420, 70, 70));
 
@@ -289,18 +310,22 @@ public class PnlTableroBotones extends javax.swing.JPanel {
         pnlFondoTablero.add(btnC6, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 140, 70, 70));
 
         btnC7.setBackground(new java.awt.Color(126, 162, 214));
+        btnC7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/PeónNegro.png"))); // NOI18N
         btnC7.setBorder(null);
         pnlFondoTablero.add(btnC7, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 70, 70, 70));
 
         btnC8.setBackground(new java.awt.Color(204, 204, 204));
+        btnC8.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/AlfilNegro.png"))); // NOI18N
         btnC8.setBorder(null);
         pnlFondoTablero.add(btnC8, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 0, 70, 70));
 
         btnB1.setBackground(new java.awt.Color(204, 204, 204));
+        btnB1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/CaballoBlanco.png"))); // NOI18N
         btnB1.setBorder(null);
         pnlFondoTablero.add(btnB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 490, 70, 70));
 
         btnB2.setBackground(new java.awt.Color(126, 162, 214));
+        btnB2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/PeónBlanco.png"))); // NOI18N
         btnB2.setBorder(null);
         pnlFondoTablero.add(btnB2, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 420, 70, 70));
 
@@ -321,18 +346,22 @@ public class PnlTableroBotones extends javax.swing.JPanel {
         pnlFondoTablero.add(btnB6, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 140, 70, 70));
 
         btnB7.setBackground(new java.awt.Color(204, 204, 204));
+        btnB7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/PeónNegro.png"))); // NOI18N
         btnB7.setBorder(null);
         pnlFondoTablero.add(btnB7, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 70, 70, 70));
 
         btnB8.setBackground(new java.awt.Color(126, 162, 214));
+        btnB8.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/CaballoNegro.png"))); // NOI18N
         btnB8.setBorder(null);
         pnlFondoTablero.add(btnB8, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 0, 70, 70));
 
         btnA1.setBackground(new java.awt.Color(126, 162, 214));
+        btnA1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/TorreBlanca.png"))); // NOI18N
         btnA1.setBorder(null);
         pnlFondoTablero.add(btnA1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 490, 70, 70));
 
         btnA2.setBackground(new java.awt.Color(204, 204, 204));
+        btnA2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/PeónBlanco.png"))); // NOI18N
         btnA2.setBorder(null);
         pnlFondoTablero.add(btnA2, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 420, 70, 70));
 
@@ -353,10 +382,12 @@ public class PnlTableroBotones extends javax.swing.JPanel {
         pnlFondoTablero.add(btnA6, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 140, 70, 70));
 
         btnA7.setBackground(new java.awt.Color(126, 162, 214));
+        btnA7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/PeónNegro.png"))); // NOI18N
         btnA7.setBorder(null);
         pnlFondoTablero.add(btnA7, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 70, 70, 70));
 
         btnA8.setBackground(new java.awt.Color(204, 204, 204));
+        btnA8.setIcon(new javax.swing.ImageIcon(getClass().getResource("/iconos/TorreNegra.png"))); // NOI18N
         btnA8.setBorder(null);
         pnlFondoTablero.add(btnA8, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 70, 70));
 
@@ -369,70 +400,70 @@ public class PnlTableroBotones extends javax.swing.JPanel {
 
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
-    private javax.swing.JButton btnA1;
-    private javax.swing.JButton btnA2;
-    private javax.swing.JButton btnA3;
-    private javax.swing.JButton btnA4;
-    private javax.swing.JButton btnA5;
-    private javax.swing.JButton btnA6;
-    private javax.swing.JButton btnA7;
-    private javax.swing.JButton btnA8;
-    private javax.swing.JButton btnB1;
-    private javax.swing.JButton btnB2;
-    private javax.swing.JButton btnB3;
-    private javax.swing.JButton btnB4;
-    private javax.swing.JButton btnB5;
-    private javax.swing.JButton btnB6;
-    private javax.swing.JButton btnB7;
-    private javax.swing.JButton btnB8;
-    private javax.swing.JButton btnC1;
-    private javax.swing.JButton btnC2;
-    private javax.swing.JButton btnC3;
-    private javax.swing.JButton btnC4;
-    private javax.swing.JButton btnC5;
-    private javax.swing.JButton btnC6;
-    private javax.swing.JButton btnC7;
-    private javax.swing.JButton btnC8;
-    private javax.swing.JButton btnD1;
-    private javax.swing.JButton btnD2;
-    private javax.swing.JButton btnD3;
-    private javax.swing.JButton btnD4;
-    private javax.swing.JButton btnD5;
-    private javax.swing.JButton btnD6;
-    private javax.swing.JButton btnD7;
-    private javax.swing.JButton btnD8;
-    private javax.swing.JButton btnE1;
-    private javax.swing.JButton btnE2;
-    private javax.swing.JButton btnE3;
-    private javax.swing.JButton btnE4;
-    private javax.swing.JButton btnE5;
-    private javax.swing.JButton btnE6;
-    private javax.swing.JButton btnE7;
-    private javax.swing.JButton btnE8;
-    private javax.swing.JButton btnF1;
-    private javax.swing.JButton btnF2;
-    private javax.swing.JButton btnF3;
-    private javax.swing.JButton btnF4;
-    private javax.swing.JButton btnF5;
-    private javax.swing.JButton btnF6;
-    private javax.swing.JButton btnF7;
-    private javax.swing.JButton btnF8;
-    private javax.swing.JButton btnG1;
-    private javax.swing.JButton btnG2;
-    private javax.swing.JButton btnG3;
-    private javax.swing.JButton btnG4;
-    private javax.swing.JButton btnG5;
-    private javax.swing.JButton btnG6;
-    private javax.swing.JButton btnG7;
-    private javax.swing.JButton btnG8;
-    private javax.swing.JButton btnH1;
+    public static javax.swing.JButton btnA1;
+    public static javax.swing.JButton btnA2;
+    public static javax.swing.JButton btnA3;
+    public static javax.swing.JButton btnA4;
+    public static javax.swing.JButton btnA5;
+    public static javax.swing.JButton btnA6;
+    public static javax.swing.JButton btnA7;
+    public static javax.swing.JButton btnA8;
+    public static javax.swing.JButton btnB1;
+    public static javax.swing.JButton btnB2;
+    public static javax.swing.JButton btnB3;
+    public static javax.swing.JButton btnB4;
+    public static javax.swing.JButton btnB5;
+    public static javax.swing.JButton btnB6;
+    public static javax.swing.JButton btnB7;
+    public static javax.swing.JButton btnB8;
+    public static javax.swing.JButton btnC1;
+    public static javax.swing.JButton btnC2;
+    public static javax.swing.JButton btnC3;
+    public static javax.swing.JButton btnC4;
+    public static javax.swing.JButton btnC5;
+    public static javax.swing.JButton btnC6;
+    public static javax.swing.JButton btnC7;
+    public static javax.swing.JButton btnC8;
+    public static javax.swing.JButton btnD1;
+    public static javax.swing.JButton btnD2;
+    public static javax.swing.JButton btnD3;
+    public static javax.swing.JButton btnD4;
+    public static javax.swing.JButton btnD5;
+    public static javax.swing.JButton btnD6;
+    public static javax.swing.JButton btnD7;
+    public static javax.swing.JButton btnD8;
+    public static javax.swing.JButton btnE1;
+    public static javax.swing.JButton btnE2;
+    public static javax.swing.JButton btnE3;
+    public static javax.swing.JButton btnE4;
+    public static javax.swing.JButton btnE5;
+    public static javax.swing.JButton btnE6;
+    public static javax.swing.JButton btnE7;
+    public static javax.swing.JButton btnE8;
+    public static javax.swing.JButton btnF1;
+    public static javax.swing.JButton btnF2;
+    public static javax.swing.JButton btnF3;
+    public static javax.swing.JButton btnF4;
+    public static javax.swing.JButton btnF5;
+    public static javax.swing.JButton btnF6;
+    public static javax.swing.JButton btnF7;
+    public static javax.swing.JButton btnF8;
+    public static javax.swing.JButton btnG1;
+    public static javax.swing.JButton btnG2;
+    public static javax.swing.JButton btnG3;
+    public static javax.swing.JButton btnG4;
+    public static javax.swing.JButton btnG5;
+    public static javax.swing.JButton btnG6;
+    public static javax.swing.JButton btnG7;
+    public static javax.swing.JButton btnG8;
+    public static javax.swing.JButton btnH1;
     public static javax.swing.JButton btnH2;
-    private javax.swing.JButton btnH3;
-    private javax.swing.JButton btnH4;
-    private javax.swing.JButton btnH5;
-    private javax.swing.JButton btnH6;
-    private javax.swing.JButton btnH7;
-    private javax.swing.JButton btnH8;
+    public static javax.swing.JButton btnH3;
+    public static javax.swing.JButton btnH4;
+    public static javax.swing.JButton btnH5;
+    public static javax.swing.JButton btnH6;
+    public static javax.swing.JButton btnH7;
+    public static javax.swing.JButton btnH8;
     private javax.swing.JPanel pnlFondoTablero;
     // End of variables declaration//GEN-END:variables
 }
