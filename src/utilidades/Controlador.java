@@ -27,7 +27,7 @@ public class Controlador implements ActionListener {
     //Bot bot = new Bot();
 
     public Controlador() {
-        iniciarTablero();
+        //iniciarTablero();
         PnlTableroBotones vista = new PnlTableroBotones();
         vista.setVisible(true);
         añadirActionEvents();
@@ -35,6 +35,12 @@ public class Controlador implements ActionListener {
         System.out.println("hola");
     }
 
+    public  void setPosicionActual(String posicionActual) {
+        this.posicionActual = posicionActual;
+    }
+    
+    
+/*
     private void iniciarTablero() {
         for (int i = 0; i < 8; i++) {
             for (int j = 0; j < 8; j++) {
@@ -65,8 +71,9 @@ public class Controlador implements ActionListener {
         tablero[7][6] = "A_caballo";
         tablero[7][7] = "A_torre";
     }
-
+*/
     private void añadirActionEvents() {
+        System.out.println("hola1");
         PnlTableroBotones.btnA1.addActionListener(this);
         PnlTableroBotones.btnB1.addActionListener(this);
         PnlTableroBotones.btnC1.addActionListener(this);
@@ -142,22 +149,22 @@ public class Controlador implements ActionListener {
 
     @Override
     public void actionPerformed(ActionEvent ae) {
-        if (turnoJugador == 'A') {
-            posicionActual = getBotonPosicionString(ae.getSource());
+        //if (turnoJugador == 'A') {
+        System.out.println("hola2");
+        posicionActual = getBotonPosicionString(ae.getSource());
 
-            if (comprobarSiLaFichaEsBlanca(posicionActual)) {
-                posicionAntigua = posicionActual;
-            } else if (posicionAntigua != null) {
-                posicionNueva = posicionActual;
+        //if (comprobarSiLaFichaEsBlanca(posicionActual)) {
+        //    posicionAntigua = posicionActual;
+        //} else if (posicionAntigua != null) {
+        posicionNueva = posicionActual;
 
-                cambiarFichas(posicionAntigua, posicionNueva);
-                posicionNueva = null;
-                posicionAntigua = null;
-                //comprobarJaqueMateHaciaBlancas();
+        cambiarFichas(posicionAntigua, posicionNueva);
+        posicionNueva = null;
+        posicionAntigua = null;
+        //comprobarJaqueMateHaciaBlancas();
 
-            }
-
-        }
+        //}
+        //}
     }/*
     private void comprobarJaqueMateHaciaBlancas(){
         boolean jaqueMate = true;
@@ -180,10 +187,10 @@ public class Controlador implements ActionListener {
         }
         
     }*/
-  
-    
-    
+
+
     private void cambiarFichas(String posAntigua, String posNueva) {
+        System.out.println("hola3");
         cambiarEnString(posAntigua, posNueva);
         cambiarEnPantalla(posAntigua, posNueva);
         comprobarPeonEnUltimaFila();
@@ -229,7 +236,6 @@ public class Controlador implements ActionListener {
         VentanaEleccionFicha ventanaElec = new VentanaEleccionFicha(null, true);
         ventanaElec.setVisible(true);
     }*/
-
     private void comprobarEnrroque(String posAntigua, String posNueva) {
         int xN = Character.getNumericValue(posNueva.charAt(1));
         int yN = Character.getNumericValue(posNueva.charAt(0));

@@ -30,7 +30,7 @@ public class FrmChessGame extends javax.swing.JFrame {
         initComponents();
         //para que la ventana aparezca en el centro y no en la esquina
         this.setLocationRelativeTo(null);
-
+        this.setTitle("ChessGame EPN");
     }
 
     /**
@@ -279,10 +279,10 @@ public class FrmChessGame extends javax.swing.JFrame {
         // TODO add your handling code here:
         pnlRegistroDeJugadores = new PnlRegistroDeJugadores();
         agregarPanelDerecho(pnlRegistroDeJugadores);
-
+        //Controlador controlador = new Controlador();
         pnlTablero = new PnlTableroBotones();
         agregarPanelIzquierdo(pnlTablero);
-        Controlador controlador = new Controlador();
+        
 
     }//GEN-LAST:event_pnlJugarMouseClicked
 

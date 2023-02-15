@@ -24,7 +24,7 @@ import vista.PnlTableroBotones;
  */
 
 
-public class PruebaDeMovimiento {
+public class PruebaDeMovimiento implements ActionListener{
 
     private String posicionAntigua;
     private String posicionNueva;
